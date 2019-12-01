@@ -24,7 +24,7 @@ default.rpcport=12345               # usually default-rpc-port from params.dat
 default.rpcuser=multichainrpc       # username for RPC from multichain.conf
 default.rpcpassword=mnBh8aHp4mun... # password for RPC from multichain.conf
 
-Run communication protocol:
+Run communication protocol:  
 cd gps
 python3 gps.py
 
