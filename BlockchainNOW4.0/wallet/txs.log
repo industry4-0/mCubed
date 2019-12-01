@@ -1,0 +1,538 @@
+2019-12-01 11:19:44	Initialized. Chain height: -1, Txs: 0
+2019-12-01 11:19:44	Entity (00000101, 0000000000000000000000000000000000000000) added successfully
+2019-12-01 11:19:44	Entity (00000201, 0000000000000000000000000000000000000000) added successfully
+2019-12-01 11:19:44	Entity (00000102, 0000000000000000000000000000000000000000) added successfully
+2019-12-01 11:19:44	Entity (00000202, 0000000000000000000000000000000000000000) added successfully
+2019-12-01 11:19:44	Entity (00000103, 52fadb817a19bf16e1b5f634fd9a6d16ba51a79c) added successfully
+2019-12-01 11:19:44	Entity (00000203, 52fadb817a19bf16e1b5f634fd9a6d16ba51a79c) added successfully
+2019-12-01 11:19:44	Entity (00000105, 00000000c5361434b8773c98fd4f6bb122a8dff8) added successfully
+2019-12-01 11:19:44	Entity (00000205, 00000000c5361434b8773c98fd4f6bb122a8dff8) added successfully
+2019-12-01 11:19:44	Entity (00000106, 00000000c5361434b8773c98fd4f6bb122a8dff8) added successfully
+2019-12-01 11:19:44	Entity (00000206, 00000000c5361434b8773c98fd4f6bb122a8dff8) added successfully
+2019-12-01 11:19:44	Entity (00000107, 00000000c5361434b8773c98fd4f6bb122a8dff8) added successfully
+2019-12-01 11:19:44	Entity (00000207, 00000000c5361434b8773c98fd4f6bb122a8dff8) added successfully
+2019-12-01 11:19:44	NewBlock 0, Txs: 0, Rows: 0
+2019-12-01 11:19:44	NewTx 978ced76d61dce48e2a292d076a3e673ee9efdcf2725434a67988f60cf9e0c38, block 1, flags 00000006, import 0
+2019-12-01 11:19:44	NewBlock 1, Txs: 1, Rows: 6
+2019-12-01 11:19:45	NewBlock 2, Txs: 0, Rows: 0
+2019-12-01 11:19:52	NewBlock 3, Txs: 0, Rows: 0
+2019-12-01 11:20:09	NewBlock 4, Txs: 0, Rows: 0
+2019-12-01 11:20:18	Initialized. Chain height: 4, Txs: 1
+2019-12-01 11:20:25	NewBlock 5, Txs: 0, Rows: 0
+2019-12-01 11:20:42	NewBlock 6, Txs: 0, Rows: 0
+2019-12-01 11:20:53	NewBlock 7, Txs: 0, Rows: 0
+2019-12-01 11:21:47	Initialized. Chain height: 7, Txs: 1
+2019-12-01 11:21:55	NewBlock 8, Txs: 0, Rows: 0
+2019-12-01 11:22:02	Initialized. Chain height: 8, Txs: 1
+2019-12-01 11:22:09	NewBlock 9, Txs: 0, Rows: 0
+2019-12-01 11:22:26	NewBlock 10, Txs: 0, Rows: 0
+2019-12-01 11:22:37	NewBlock 11, Txs: 0, Rows: 0
+2019-12-01 11:22:58	NewBlock 12, Txs: 0, Rows: 0
+2019-12-01 11:23:14	NewBlock 13, Txs: 0, Rows: 0
+2019-12-01 11:23:30	NewBlock 14, Txs: 0, Rows: 0
+2019-12-01 11:23:44	NewBlock 15, Txs: 0, Rows: 0
+2019-12-01 11:24:05	NewBlock 16, Txs: 0, Rows: 0
+2019-12-01 11:24:25	NewBlock 17, Txs: 0, Rows: 0
+2019-12-01 11:33:33	Initialized. Chain height: 17, Txs: 1
+2019-12-01 11:33:41	NewBlock 18, Txs: 0, Rows: 0
+2019-12-01 11:33:58	NewBlock 19, Txs: 0, Rows: 0
+2019-12-01 11:35:33	Initialized. Chain height: 19, Txs: 1
+2019-12-01 11:41:06	Initialized. Chain height: 19, Txs: 1
+2019-12-01 11:41:14	NewBlock 20, Txs: 0, Rows: 0
+2019-12-01 11:41:31	NewBlock 21, Txs: 0, Rows: 0
+2019-12-01 11:41:42	NewBlock 22, Txs: 0, Rows: 0
+2019-12-01 11:42:02	NewBlock 23, Txs: 0, Rows: 0
+2019-12-01 11:42:18	NewBlock 24, Txs: 0, Rows: 0
+2019-12-01 11:42:34	NewBlock 25, Txs: 0, Rows: 0
+2019-12-01 11:42:47	Entity (00000103, b4e2dbdd8876f054fd44a7a162be0ab9c663e242) added successfully
+2019-12-01 11:42:47	Entity (00000203, b4e2dbdd8876f054fd44a7a162be0ab9c663e242) added successfully
+2019-12-01 11:42:47	NewBlock 26, Txs: 0, Rows: 0
+2019-12-01 11:42:57	NewTx ea78fe67d471a82eee18554abb43897b9bb4652bde3f7d62b96ad90501127c67, block -1, flags 00030004, import 0
+2019-12-01 11:43:18	UpdateTx ea78fe67d4, block 27, flags 00030004, import 0
+2019-12-01 11:43:18	NewBlock 27, Txs: 1, Rows: 8
+2019-12-01 11:43:37	NewBlock 28, Txs: 0, Rows: 0
+2019-12-01 11:43:48	NewBlock 29, Txs: 0, Rows: 0
+2019-12-01 11:44:09	NewBlock 30, Txs: 0, Rows: 0
+2019-12-01 11:44:28	NewBlock 31, Txs: 0, Rows: 0
+2019-12-01 11:44:36	NewBlock 32, Txs: 0, Rows: 0
+2019-12-01 11:44:41	NewBlock 33, Txs: 0, Rows: 0
+2019-12-01 11:44:51	NewBlock 34, Txs: 0, Rows: 0
+2019-12-01 11:45:08	NewBlock 35, Txs: 0, Rows: 0
+2019-12-01 11:45:28	NewBlock 36, Txs: 0, Rows: 0
+2019-12-01 11:45:40	NewBlock 37, Txs: 0, Rows: 0
+2019-12-01 11:45:40	NewTx 7e182257b5eb92f399f90b1b4e1dd97f64f101f445eeed419b65937b4b8b2409, block -1, flags 00030004, import 0
+2019-12-01 11:45:49	NewTx 4de3f5cf458a0db98770f35e85a9bf14fdab1ca7aa89feeda5e76e55d8ee06d7, block -1, flags 00030004, import 0
+2019-12-01 11:45:56	UpdateTx 7e182257b5, block 38, flags 00030004, import 0
+2019-12-01 11:45:56	UpdateTx 4de3f5cf45, block 38, flags 00030004, import 0
+2019-12-01 11:45:56	NewBlock 38, Txs: 2, Rows: 12
+2019-12-01 11:46:15	NewBlock 39, Txs: 0, Rows: 0
+2019-12-01 11:46:25	NewBlock 40, Txs: 0, Rows: 0
+2019-12-01 11:46:32	NewTx 85b26957bfe0ab8386fa7ecfede9fa7dd087d3e1561c7b1742402fc2e5f97446, block -1, flags 00030004, import 0
+2019-12-01 11:46:37	UpdateTx 85b26957bf, block 41, flags 00030004, import 0
+2019-12-01 11:46:37	NewBlock 41, Txs: 1, Rows: 8
+2019-12-01 11:46:52	NewBlock 42, Txs: 0, Rows: 0
+2019-12-01 11:47:11	NewBlock 43, Txs: 0, Rows: 0
+2019-12-01 11:47:26	NewBlock 44, Txs: 0, Rows: 0
+2019-12-01 11:47:30	NewTx 586feb0c692cd0db563469b07a72337a85630991360b09dbc160912950936b35, block -1, flags 00030004, import 0
+2019-12-01 11:47:42	UpdateTx 586feb0c69, block 45, flags 00030004, import 0
+2019-12-01 11:47:42	NewBlock 45, Txs: 1, Rows: 8
+2019-12-01 11:47:57	NewBlock 46, Txs: 0, Rows: 0
+2019-12-01 11:48:13	NewBlock 47, Txs: 0, Rows: 0
+2019-12-01 11:48:22	NewBlock 48, Txs: 0, Rows: 0
+2019-12-01 11:48:22	NewTx 29c360d721040d32f3206110ae7eb18c4f9d3278d236e2802308433222bc93ce, block -1, flags 00030004, import 0
+2019-12-01 11:48:44	UpdateTx 29c360d721, block 49, flags 00030004, import 0
+2019-12-01 11:48:44	NewBlock 49, Txs: 1, Rows: 8
+2019-12-01 11:48:56	NewBlock 50, Txs: 0, Rows: 0
+2019-12-01 11:49:10	NewBlock 51, Txs: 0, Rows: 0
+2019-12-01 11:49:20	NewBlock 52, Txs: 0, Rows: 0
+2019-12-01 11:49:21	NewTx f03c0478678bd6672753b46c0f00f2d34fd8e6bbc629d0fb5b96a4563dcf2002, block -1, flags 00030004, import 0
+2019-12-01 11:49:42	UpdateTx f03c047867, block 53, flags 00030004, import 0
+2019-12-01 11:49:42	NewBlock 53, Txs: 1, Rows: 8
+2019-12-01 11:50:01	NewBlock 54, Txs: 0, Rows: 0
+2019-12-01 11:50:03	NewTx d052f6bfe3b8edc326316246fe083229a86ff2f971cedfdc63dd713bcbf07688, block -1, flags 00030004, import 0
+2019-12-01 11:50:16	UpdateTx d052f6bfe3, block 55, flags 00030004, import 0
+2019-12-01 11:50:16	NewBlock 55, Txs: 1, Rows: 8
+2019-12-01 11:50:27	NewBlock 56, Txs: 0, Rows: 0
+2019-12-01 11:50:39	NewBlock 57, Txs: 0, Rows: 0
+2019-12-01 11:51:03	NewBlock 58, Txs: 0, Rows: 0
+2019-12-01 11:51:16	NewBlock 59, Txs: 0, Rows: 0
+2019-12-01 11:51:19	NewTx da4f26e7a03be6215e7904aab84e1bcb66e3b3d2720c91623e367fa897bc5535, block -1, flags 00030004, import 0
+2019-12-01 11:51:35	UpdateTx da4f26e7a0, block 60, flags 00030004, import 0
+2019-12-01 11:51:35	NewBlock 60, Txs: 1, Rows: 6
+2019-12-01 11:51:50	NewBlock 61, Txs: 0, Rows: 0
+2019-12-01 11:52:00	NewBlock 62, Txs: 0, Rows: 0
+2019-12-01 11:52:09	NewBlock 63, Txs: 0, Rows: 0
+2019-12-01 11:52:12	NewTx 7a710d09420ee414d1841fde6f64b2ead2281c7f552a695f1a0f930531304dc6, block -1, flags 00030004, import 0
+2019-12-01 11:52:29	UpdateTx 7a710d0942, block 64, flags 00030004, import 0
+2019-12-01 11:52:29	NewBlock 64, Txs: 1, Rows: 6
+2019-12-01 11:52:37	NewTx a0269f4cf32c0ae1f4711adb8dee7d7320c6f28ffee0d96f8a899074c7307988, block -1, flags 00030004, import 0
+2019-12-01 11:52:42	UpdateTx a0269f4cf3, block 65, flags 00030004, import 0
+2019-12-01 11:52:42	NewBlock 65, Txs: 1, Rows: 6
+2019-12-01 11:53:06	NewBlock 66, Txs: 0, Rows: 0
+2019-12-01 11:53:11	NewBlock 67, Txs: 0, Rows: 0
+2019-12-01 11:53:35	NewBlock 68, Txs: 0, Rows: 0
+2019-12-01 11:53:41	NewTx 8efa503cb2d735ffd8cabb816f4f0819badcb145bf9e07db71f3bc6bd6d2c308, block -1, flags 00030004, import 0
+2019-12-01 11:53:48	NewTx e4bccd1ac80be11b34afa38a9bbd8c8d5381f12d4c3bea5f8836a1145ae8c766, block -1, flags 00030004, import 0
+2019-12-01 11:53:51	UpdateTx 8efa503cb2, block 69, flags 00030004, import 0
+2019-12-01 11:53:51	UpdateTx e4bccd1ac8, block 69, flags 00030004, import 0
+2019-12-01 11:53:51	NewBlock 69, Txs: 2, Rows: 12
+2019-12-01 11:54:10	NewBlock 70, Txs: 0, Rows: 0
+2019-12-01 11:54:26	NewBlock 71, Txs: 0, Rows: 0
+2019-12-01 11:54:36	NewBlock 72, Txs: 0, Rows: 0
+2019-12-01 11:54:47	NewBlock 73, Txs: 0, Rows: 0
+2019-12-01 11:55:00	NewBlock 74, Txs: 0, Rows: 0
+2019-12-01 11:55:15	NewBlock 75, Txs: 0, Rows: 0
+2019-12-01 11:55:31	NewTx 57516141b0092a45532a56632fa56ea3c58c2475d91911345a08f7fb79cf40fb, block -1, flags 00030004, import 0
+2019-12-01 11:55:39	UpdateTx 57516141b0, block 76, flags 00030004, import 0
+2019-12-01 11:55:39	NewBlock 76, Txs: 1, Rows: 6
+2019-12-01 11:55:42	NewBlock 77, Txs: 0, Rows: 0
+2019-12-01 11:55:51	NewTx 13f5de9d4f1d0ad4708a1ce18fe2068a0ed2cca5e8aa3e93df8ab4e1aea4c008, block -1, flags 00030004, import 0
+2019-12-01 11:55:57	NewTx 976f858020451154520406e183713fadd0834693d8a2d874719db59ff0157c1c, block -1, flags 00030004, import 0
+2019-12-01 11:56:00	NewTx f1a5defedeeea8b70043646c577244093a0ee227c342dd41d1fc0cb3717429da, block -1, flags 00030004, import 0
+2019-12-01 11:56:03	UpdateTx 13f5de9d4f, block 78, flags 00030004, import 0
+2019-12-01 11:56:03	UpdateTx 976f858020, block 78, flags 00030004, import 0
+2019-12-01 11:56:03	UpdateTx f1a5defede, block 78, flags 00030004, import 0
+2019-12-01 11:56:03	NewBlock 78, Txs: 3, Rows: 18
+2019-12-01 11:56:12	NewTx 8fed4c9d59f8ef5d1c24014bfe8e32528110a62aae9e0d97473c2d291258370a, block -1, flags 00030004, import 0
+2019-12-01 11:56:13	UpdateTx 8fed4c9d59, block 79, flags 00030004, import 0
+2019-12-01 11:56:13	NewBlock 79, Txs: 1, Rows: 6
+2019-12-01 11:56:28	Entity (00000105, 00000000da4f26e7a03be6215e7904aab84e1bcb) added successfully
+2019-12-01 11:56:28	Entity (00000205, 00000000da4f26e7a03be6215e7904aab84e1bcb) added successfully
+2019-12-01 11:56:28	Entity (00000106, 00000000da4f26e7a03be6215e7904aab84e1bcb) added successfully
+2019-12-01 11:56:28	Entity (00000206, 00000000da4f26e7a03be6215e7904aab84e1bcb) added successfully
+2019-12-01 11:56:28	Entity (00000107, 00000000da4f26e7a03be6215e7904aab84e1bcb) added successfully
+2019-12-01 11:56:28	Entity (00000207, 00000000da4f26e7a03be6215e7904aab84e1bcb) added successfully
+2019-12-01 11:56:28	Starting new import 1 with 6 entities from block 59
+2019-12-01 11:56:28	Import: 1, Entity: (00000105, 00000000da4f26e7a03be6215e7904aab84e1bcb), transferred txs: 0
+2019-12-01 11:56:28	Import: 1, Entity: (00000205, 00000000da4f26e7a03be6215e7904aab84e1bcb), transferred txs: 0
+2019-12-01 11:56:28	Import: 1, Entity: (00000106, 00000000da4f26e7a03be6215e7904aab84e1bcb), transferred txs: 0
+2019-12-01 11:56:28	Import: 1, Entity: (00000206, 00000000da4f26e7a03be6215e7904aab84e1bcb), transferred txs: 0
+2019-12-01 11:56:28	Import: 1, Entity: (00000107, 00000000da4f26e7a03be6215e7904aab84e1bcb), transferred txs: 0
+2019-12-01 11:56:28	Import: 1, Entity: (00000207, 00000000da4f26e7a03be6215e7904aab84e1bcb), transferred txs: 0
+2019-12-01 11:56:28	Import 1 successfully started
+2019-12-01 11:56:28	Tx da4f26e7a03be6215e7904aab84e1bcb66e3b3d2720c91623e367fa897bc5535 ignored for import 1
+2019-12-01 11:56:28	NewBlock 60, Txs: 0, Rows: 0
+2019-12-01 11:56:28	NewBlock 61, Txs: 0, Rows: 0
+2019-12-01 11:56:28	NewBlock 62, Txs: 0, Rows: 0
+2019-12-01 11:56:28	NewBlock 63, Txs: 0, Rows: 0
+2019-12-01 11:56:28	Tx 7a710d09420ee414d1841fde6f64b2ead2281c7f552a695f1a0f930531304dc6 ignored for import 1
+2019-12-01 11:56:28	NewBlock 64, Txs: 0, Rows: 0
+2019-12-01 11:56:28	Tx a0269f4cf32c0ae1f4711adb8dee7d7320c6f28ffee0d96f8a899074c7307988 ignored for import 1
+2019-12-01 11:56:28	NewBlock 65, Txs: 0, Rows: 0
+2019-12-01 11:56:28	NewBlock 66, Txs: 0, Rows: 0
+2019-12-01 11:56:28	NewBlock 67, Txs: 0, Rows: 0
+2019-12-01 11:56:28	NewBlock 68, Txs: 0, Rows: 0
+2019-12-01 11:56:28	Tx 8efa503cb2d735ffd8cabb816f4f0819badcb145bf9e07db71f3bc6bd6d2c308 ignored for import 1
+2019-12-01 11:56:28	Tx e4bccd1ac80be11b34afa38a9bbd8c8d5381f12d4c3bea5f8836a1145ae8c766 ignored for import 1
+2019-12-01 11:56:28	NewBlock 69, Txs: 0, Rows: 0
+2019-12-01 11:56:28	NewBlock 70, Txs: 0, Rows: 0
+2019-12-01 11:56:28	NewBlock 71, Txs: 0, Rows: 0
+2019-12-01 11:56:28	NewBlock 72, Txs: 0, Rows: 0
+2019-12-01 11:56:28	NewBlock 73, Txs: 0, Rows: 0
+2019-12-01 11:56:28	NewBlock 74, Txs: 0, Rows: 0
+2019-12-01 11:56:28	NewBlock 75, Txs: 0, Rows: 0
+2019-12-01 11:56:28	UpdateTx 57516141b0, block 76, flags 00000004, import 1
+2019-12-01 11:56:28	NewBlock 76, Txs: 2, Rows: 14
+2019-12-01 11:56:28	NewBlock 77, Txs: 0, Rows: 0
+2019-12-01 11:56:28	UpdateTx 13f5de9d4f, block 78, flags 00000004, import 1
+2019-12-01 11:56:28	UpdateTx 976f858020, block 78, flags 00000004, import 1
+2019-12-01 11:56:28	UpdateTx f1a5defede, block 78, flags 00000004, import 1
+2019-12-01 11:56:28	NewBlock 78, Txs: 0, Rows: 22
+2019-12-01 11:56:28	UpdateTx 8fed4c9d59, block 79, flags 00000004, import 1
+2019-12-01 11:56:28	NewBlock 79, Txs: 0, Rows: 10
+2019-12-01 11:56:28	Import: 1, Transferring entity (00000105, 00000000da4f26e7a03be6215e7904aab84e1bcb) to the chain, txs: 5
+2019-12-01 11:56:28	Import: 1, Transferring entity (00000205, 00000000da4f26e7a03be6215e7904aab84e1bcb) to the chain, txs: 5
+2019-12-01 11:56:28	Import: 1, Transferring entity (00000106, 00000000da4f26e7a03be6215e7904aab84e1bcb) to the chain, txs: 1
+2019-12-01 11:56:28	Import: 1, Transferring entity (00000206, 00000000da4f26e7a03be6215e7904aab84e1bcb) to the chain, txs: 1
+2019-12-01 11:56:28	Import: 1, Transferring entity (00000107, 00000000da4f26e7a03be6215e7904aab84e1bcb) to the chain, txs: 1
+2019-12-01 11:56:28	Import: 1, Transferring entity (00000207, 00000000da4f26e7a03be6215e7904aab84e1bcb) to the chain, txs: 1
+2019-12-01 11:56:28	CompleteImport: Successfully updated chain after import 1, removing old records
+2019-12-01 11:56:28	CompleteImport: Import 1 completed
+2019-12-01 11:56:28	Entity (00000105, 00000000da4f26e7a03be6215e7904aab84e1bcb) already in the wallet
+2019-12-01 11:56:31	Entity (00000105, 000000007a710d09420ee414d1841fde6f64b2ea) added successfully
+2019-12-01 11:56:31	Entity (00000205, 000000007a710d09420ee414d1841fde6f64b2ea) added successfully
+2019-12-01 11:56:31	Entity (00000106, 000000007a710d09420ee414d1841fde6f64b2ea) added successfully
+2019-12-01 11:56:31	Entity (00000206, 000000007a710d09420ee414d1841fde6f64b2ea) added successfully
+2019-12-01 11:56:31	Entity (00000107, 000000007a710d09420ee414d1841fde6f64b2ea) added successfully
+2019-12-01 11:56:31	Entity (00000207, 000000007a710d09420ee414d1841fde6f64b2ea) added successfully
+2019-12-01 11:56:31	Starting new import 2 with 6 entities from block 63
+2019-12-01 11:56:31	Import: 2, Entity: (00000105, 000000007a710d09420ee414d1841fde6f64b2ea), transferred txs: 0
+2019-12-01 11:56:31	Import: 2, Entity: (00000205, 000000007a710d09420ee414d1841fde6f64b2ea), transferred txs: 0
+2019-12-01 11:56:31	Import: 2, Entity: (00000106, 000000007a710d09420ee414d1841fde6f64b2ea), transferred txs: 0
+2019-12-01 11:56:31	Import: 2, Entity: (00000206, 000000007a710d09420ee414d1841fde6f64b2ea), transferred txs: 0
+2019-12-01 11:56:31	Import: 2, Entity: (00000107, 000000007a710d09420ee414d1841fde6f64b2ea), transferred txs: 0
+2019-12-01 11:56:31	Import: 2, Entity: (00000207, 000000007a710d09420ee414d1841fde6f64b2ea), transferred txs: 0
+2019-12-01 11:56:31	Import 2 successfully started
+2019-12-01 11:56:31	Tx 7a710d09420ee414d1841fde6f64b2ead2281c7f552a695f1a0f930531304dc6 ignored for import 2
+2019-12-01 11:56:31	NewBlock 64, Txs: 0, Rows: 0
+2019-12-01 11:56:31	Tx a0269f4cf32c0ae1f4711adb8dee7d7320c6f28ffee0d96f8a899074c7307988 ignored for import 2
+2019-12-01 11:56:31	NewBlock 65, Txs: 0, Rows: 0
+2019-12-01 11:56:31	NewBlock 66, Txs: 0, Rows: 0
+2019-12-01 11:56:31	NewBlock 67, Txs: 0, Rows: 0
+2019-12-01 11:56:31	NewBlock 68, Txs: 0, Rows: 0
+2019-12-01 11:56:31	Tx 8efa503cb2d735ffd8cabb816f4f0819badcb145bf9e07db71f3bc6bd6d2c308 ignored for import 2
+2019-12-01 11:56:31	Tx e4bccd1ac80be11b34afa38a9bbd8c8d5381f12d4c3bea5f8836a1145ae8c766 ignored for import 2
+2019-12-01 11:56:31	NewBlock 69, Txs: 0, Rows: 0
+2019-12-01 11:56:31	NewBlock 70, Txs: 0, Rows: 0
+2019-12-01 11:56:31	NewBlock 71, Txs: 0, Rows: 0
+2019-12-01 11:56:31	NewBlock 72, Txs: 0, Rows: 0
+2019-12-01 11:56:31	NewBlock 73, Txs: 0, Rows: 0
+2019-12-01 11:56:31	NewBlock 74, Txs: 0, Rows: 0
+2019-12-01 11:56:31	NewBlock 75, Txs: 0, Rows: 0
+2019-12-01 11:56:31	Tx 57516141b0092a45532a56632fa56ea3c58c2475d91911345a08f7fb79cf40fb ignored for import 2
+2019-12-01 11:56:31	NewBlock 76, Txs: 0, Rows: 0
+2019-12-01 11:56:31	NewBlock 77, Txs: 0, Rows: 0
+2019-12-01 11:56:31	Tx 13f5de9d4f1d0ad4708a1ce18fe2068a0ed2cca5e8aa3e93df8ab4e1aea4c008 ignored for import 2
+2019-12-01 11:56:31	Tx 976f858020451154520406e183713fadd0834693d8a2d874719db59ff0157c1c ignored for import 2
+2019-12-01 11:56:31	Tx f1a5defedeeea8b70043646c577244093a0ee227c342dd41d1fc0cb3717429da ignored for import 2
+2019-12-01 11:56:31	NewBlock 78, Txs: 0, Rows: 0
+2019-12-01 11:56:31	Tx 8fed4c9d59f8ef5d1c24014bfe8e32528110a62aae9e0d97473c2d291258370a ignored for import 2
+2019-12-01 11:56:31	NewBlock 79, Txs: 0, Rows: 0
+2019-12-01 11:56:31	Import: 2, Transferring entity (00000105, 000000007a710d09420ee414d1841fde6f64b2ea) to the chain, txs: 0
+2019-12-01 11:56:31	Import: 2, Transferring entity (00000205, 000000007a710d09420ee414d1841fde6f64b2ea) to the chain, txs: 0
+2019-12-01 11:56:31	Import: 2, Transferring entity (00000106, 000000007a710d09420ee414d1841fde6f64b2ea) to the chain, txs: 0
+2019-12-01 11:56:31	Import: 2, Transferring entity (00000206, 000000007a710d09420ee414d1841fde6f64b2ea) to the chain, txs: 0
+2019-12-01 11:56:31	Import: 2, Transferring entity (00000107, 000000007a710d09420ee414d1841fde6f64b2ea) to the chain, txs: 0
+2019-12-01 11:56:31	Import: 2, Transferring entity (00000207, 000000007a710d09420ee414d1841fde6f64b2ea) to the chain, txs: 0
+2019-12-01 11:56:31	CompleteImport: Successfully updated chain after import 2, removing old records
+2019-12-01 11:56:31	CompleteImport: Import 2 completed
+2019-12-01 11:56:31	Entity (00000105, 000000007a710d09420ee414d1841fde6f64b2ea) already in the wallet
+2019-12-01 11:56:32	Entity (00000105, 00000000a0269f4cf32c0ae1f4711adb8dee7d73) added successfully
+2019-12-01 11:56:32	Entity (00000205, 00000000a0269f4cf32c0ae1f4711adb8dee7d73) added successfully
+2019-12-01 11:56:32	Entity (00000106, 00000000a0269f4cf32c0ae1f4711adb8dee7d73) added successfully
+2019-12-01 11:56:32	Entity (00000206, 00000000a0269f4cf32c0ae1f4711adb8dee7d73) added successfully
+2019-12-01 11:56:32	Entity (00000107, 00000000a0269f4cf32c0ae1f4711adb8dee7d73) added successfully
+2019-12-01 11:56:32	Entity (00000207, 00000000a0269f4cf32c0ae1f4711adb8dee7d73) added successfully
+2019-12-01 11:56:32	Starting new import 3 with 6 entities from block 64
+2019-12-01 11:56:32	Import: 3, Entity: (00000105, 00000000a0269f4cf32c0ae1f4711adb8dee7d73), transferred txs: 0
+2019-12-01 11:56:32	Import: 3, Entity: (00000205, 00000000a0269f4cf32c0ae1f4711adb8dee7d73), transferred txs: 0
+2019-12-01 11:56:32	Import: 3, Entity: (00000106, 00000000a0269f4cf32c0ae1f4711adb8dee7d73), transferred txs: 0
+2019-12-01 11:56:32	Import: 3, Entity: (00000206, 00000000a0269f4cf32c0ae1f4711adb8dee7d73), transferred txs: 0
+2019-12-01 11:56:32	Import: 3, Entity: (00000107, 00000000a0269f4cf32c0ae1f4711adb8dee7d73), transferred txs: 0
+2019-12-01 11:56:32	Import: 3, Entity: (00000207, 00000000a0269f4cf32c0ae1f4711adb8dee7d73), transferred txs: 0
+2019-12-01 11:56:32	Import 3 successfully started
+2019-12-01 11:56:32	Tx a0269f4cf32c0ae1f4711adb8dee7d7320c6f28ffee0d96f8a899074c7307988 ignored for import 3
+2019-12-01 11:56:32	NewBlock 65, Txs: 0, Rows: 0
+2019-12-01 11:56:32	NewBlock 66, Txs: 0, Rows: 0
+2019-12-01 11:56:32	NewBlock 67, Txs: 0, Rows: 0
+2019-12-01 11:56:32	NewBlock 68, Txs: 0, Rows: 0
+2019-12-01 11:56:32	Tx 8efa503cb2d735ffd8cabb816f4f0819badcb145bf9e07db71f3bc6bd6d2c308 ignored for import 3
+2019-12-01 11:56:32	Tx e4bccd1ac80be11b34afa38a9bbd8c8d5381f12d4c3bea5f8836a1145ae8c766 ignored for import 3
+2019-12-01 11:56:32	NewBlock 69, Txs: 0, Rows: 0
+2019-12-01 11:56:32	NewBlock 70, Txs: 0, Rows: 0
+2019-12-01 11:56:32	NewBlock 71, Txs: 0, Rows: 0
+2019-12-01 11:56:32	NewBlock 72, Txs: 0, Rows: 0
+2019-12-01 11:56:32	NewBlock 73, Txs: 0, Rows: 0
+2019-12-01 11:56:32	NewBlock 74, Txs: 0, Rows: 0
+2019-12-01 11:56:32	NewBlock 75, Txs: 0, Rows: 0
+2019-12-01 11:56:32	Tx 57516141b0092a45532a56632fa56ea3c58c2475d91911345a08f7fb79cf40fb ignored for import 3
+2019-12-01 11:56:32	NewBlock 76, Txs: 0, Rows: 0
+2019-12-01 11:56:32	NewBlock 77, Txs: 0, Rows: 0
+2019-12-01 11:56:32	Tx 13f5de9d4f1d0ad4708a1ce18fe2068a0ed2cca5e8aa3e93df8ab4e1aea4c008 ignored for import 3
+2019-12-01 11:56:32	Tx 976f858020451154520406e183713fadd0834693d8a2d874719db59ff0157c1c ignored for import 3
+2019-12-01 11:56:32	Tx f1a5defedeeea8b70043646c577244093a0ee227c342dd41d1fc0cb3717429da ignored for import 3
+2019-12-01 11:56:32	NewBlock 78, Txs: 0, Rows: 0
+2019-12-01 11:56:32	Tx 8fed4c9d59f8ef5d1c24014bfe8e32528110a62aae9e0d97473c2d291258370a ignored for import 3
+2019-12-01 11:56:32	NewBlock 79, Txs: 0, Rows: 0
+2019-12-01 11:56:32	Import: 3, Transferring entity (00000105, 00000000a0269f4cf32c0ae1f4711adb8dee7d73) to the chain, txs: 0
+2019-12-01 11:56:32	Import: 3, Transferring entity (00000205, 00000000a0269f4cf32c0ae1f4711adb8dee7d73) to the chain, txs: 0
+2019-12-01 11:56:32	Import: 3, Transferring entity (00000106, 00000000a0269f4cf32c0ae1f4711adb8dee7d73) to the chain, txs: 0
+2019-12-01 11:56:32	Import: 3, Transferring entity (00000206, 00000000a0269f4cf32c0ae1f4711adb8dee7d73) to the chain, txs: 0
+2019-12-01 11:56:32	Import: 3, Transferring entity (00000107, 00000000a0269f4cf32c0ae1f4711adb8dee7d73) to the chain, txs: 0
+2019-12-01 11:56:32	Import: 3, Transferring entity (00000207, 00000000a0269f4cf32c0ae1f4711adb8dee7d73) to the chain, txs: 0
+2019-12-01 11:56:32	CompleteImport: Successfully updated chain after import 3, removing old records
+2019-12-01 11:56:32	CompleteImport: Import 3 completed
+2019-12-01 11:56:32	Entity (00000105, 00000000a0269f4cf32c0ae1f4711adb8dee7d73) already in the wallet
+2019-12-01 11:56:34	Entity (00000105, 000000008efa503cb2d735ffd8cabb816f4f0819) added successfully
+2019-12-01 11:56:34	Entity (00000205, 000000008efa503cb2d735ffd8cabb816f4f0819) added successfully
+2019-12-01 11:56:34	Entity (00000106, 000000008efa503cb2d735ffd8cabb816f4f0819) added successfully
+2019-12-01 11:56:34	Entity (00000206, 000000008efa503cb2d735ffd8cabb816f4f0819) added successfully
+2019-12-01 11:56:34	Entity (00000107, 000000008efa503cb2d735ffd8cabb816f4f0819) added successfully
+2019-12-01 11:56:34	Entity (00000207, 000000008efa503cb2d735ffd8cabb816f4f0819) added successfully
+2019-12-01 11:56:34	Starting new import 4 with 6 entities from block 68
+2019-12-01 11:56:34	Import: 4, Entity: (00000105, 000000008efa503cb2d735ffd8cabb816f4f0819), transferred txs: 0
+2019-12-01 11:56:34	Import: 4, Entity: (00000205, 000000008efa503cb2d735ffd8cabb816f4f0819), transferred txs: 0
+2019-12-01 11:56:34	Import: 4, Entity: (00000106, 000000008efa503cb2d735ffd8cabb816f4f0819), transferred txs: 0
+2019-12-01 11:56:34	Import: 4, Entity: (00000206, 000000008efa503cb2d735ffd8cabb816f4f0819), transferred txs: 0
+2019-12-01 11:56:34	Import: 4, Entity: (00000107, 000000008efa503cb2d735ffd8cabb816f4f0819), transferred txs: 0
+2019-12-01 11:56:34	Import: 4, Entity: (00000207, 000000008efa503cb2d735ffd8cabb816f4f0819), transferred txs: 0
+2019-12-01 11:56:34	Import 4 successfully started
+2019-12-01 11:56:34	Tx 8efa503cb2d735ffd8cabb816f4f0819badcb145bf9e07db71f3bc6bd6d2c308 ignored for import 4
+2019-12-01 11:56:34	Tx e4bccd1ac80be11b34afa38a9bbd8c8d5381f12d4c3bea5f8836a1145ae8c766 ignored for import 4
+2019-12-01 11:56:34	NewBlock 69, Txs: 0, Rows: 0
+2019-12-01 11:56:34	NewBlock 70, Txs: 0, Rows: 0
+2019-12-01 11:56:34	NewBlock 71, Txs: 0, Rows: 0
+2019-12-01 11:56:34	NewBlock 72, Txs: 0, Rows: 0
+2019-12-01 11:56:34	NewBlock 73, Txs: 0, Rows: 0
+2019-12-01 11:56:34	NewBlock 74, Txs: 0, Rows: 0
+2019-12-01 11:56:34	NewBlock 75, Txs: 0, Rows: 0
+2019-12-01 11:56:34	Tx 57516141b0092a45532a56632fa56ea3c58c2475d91911345a08f7fb79cf40fb ignored for import 4
+2019-12-01 11:56:34	NewBlock 76, Txs: 0, Rows: 0
+2019-12-01 11:56:34	NewBlock 77, Txs: 0, Rows: 0
+2019-12-01 11:56:34	Tx 13f5de9d4f1d0ad4708a1ce18fe2068a0ed2cca5e8aa3e93df8ab4e1aea4c008 ignored for import 4
+2019-12-01 11:56:34	Tx 976f858020451154520406e183713fadd0834693d8a2d874719db59ff0157c1c ignored for import 4
+2019-12-01 11:56:34	Tx f1a5defedeeea8b70043646c577244093a0ee227c342dd41d1fc0cb3717429da ignored for import 4
+2019-12-01 11:56:34	NewBlock 78, Txs: 0, Rows: 0
+2019-12-01 11:56:34	Tx 8fed4c9d59f8ef5d1c24014bfe8e32528110a62aae9e0d97473c2d291258370a ignored for import 4
+2019-12-01 11:56:34	NewBlock 79, Txs: 0, Rows: 0
+2019-12-01 11:56:34	Import: 4, Transferring entity (00000105, 000000008efa503cb2d735ffd8cabb816f4f0819) to the chain, txs: 0
+2019-12-01 11:56:34	Import: 4, Transferring entity (00000205, 000000008efa503cb2d735ffd8cabb816f4f0819) to the chain, txs: 0
+2019-12-01 11:56:34	Import: 4, Transferring entity (00000106, 000000008efa503cb2d735ffd8cabb816f4f0819) to the chain, txs: 0
+2019-12-01 11:56:34	Import: 4, Transferring entity (00000206, 000000008efa503cb2d735ffd8cabb816f4f0819) to the chain, txs: 0
+2019-12-01 11:56:34	Import: 4, Transferring entity (00000107, 000000008efa503cb2d735ffd8cabb816f4f0819) to the chain, txs: 0
+2019-12-01 11:56:34	Import: 4, Transferring entity (00000207, 000000008efa503cb2d735ffd8cabb816f4f0819) to the chain, txs: 0
+2019-12-01 11:56:34	CompleteImport: Successfully updated chain after import 4, removing old records
+2019-12-01 11:56:34	CompleteImport: Import 4 completed
+2019-12-01 11:56:34	Entity (00000105, 000000008efa503cb2d735ffd8cabb816f4f0819) already in the wallet
+2019-12-01 11:56:36	Entity (00000105, 00000000e4bccd1ac80be11b34afa38a9bbd8c8d) added successfully
+2019-12-01 11:56:36	Entity (00000205, 00000000e4bccd1ac80be11b34afa38a9bbd8c8d) added successfully
+2019-12-01 11:56:36	Entity (00000106, 00000000e4bccd1ac80be11b34afa38a9bbd8c8d) added successfully
+2019-12-01 11:56:36	Entity (00000206, 00000000e4bccd1ac80be11b34afa38a9bbd8c8d) added successfully
+2019-12-01 11:56:36	Entity (00000107, 00000000e4bccd1ac80be11b34afa38a9bbd8c8d) added successfully
+2019-12-01 11:56:36	Entity (00000207, 00000000e4bccd1ac80be11b34afa38a9bbd8c8d) added successfully
+2019-12-01 11:56:36	Starting new import 5 with 6 entities from block 68
+2019-12-01 11:56:36	Import: 5, Entity: (00000105, 00000000e4bccd1ac80be11b34afa38a9bbd8c8d), transferred txs: 0
+2019-12-01 11:56:36	Import: 5, Entity: (00000205, 00000000e4bccd1ac80be11b34afa38a9bbd8c8d), transferred txs: 0
+2019-12-01 11:56:36	Import: 5, Entity: (00000106, 00000000e4bccd1ac80be11b34afa38a9bbd8c8d), transferred txs: 0
+2019-12-01 11:56:36	Import: 5, Entity: (00000206, 00000000e4bccd1ac80be11b34afa38a9bbd8c8d), transferred txs: 0
+2019-12-01 11:56:36	Import: 5, Entity: (00000107, 00000000e4bccd1ac80be11b34afa38a9bbd8c8d), transferred txs: 0
+2019-12-01 11:56:36	Import: 5, Entity: (00000207, 00000000e4bccd1ac80be11b34afa38a9bbd8c8d), transferred txs: 0
+2019-12-01 11:56:36	Import 5 successfully started
+2019-12-01 11:56:36	Tx 8efa503cb2d735ffd8cabb816f4f0819badcb145bf9e07db71f3bc6bd6d2c308 ignored for import 5
+2019-12-01 11:56:36	Tx e4bccd1ac80be11b34afa38a9bbd8c8d5381f12d4c3bea5f8836a1145ae8c766 ignored for import 5
+2019-12-01 11:56:36	NewBlock 69, Txs: 0, Rows: 0
+2019-12-01 11:56:36	NewBlock 70, Txs: 0, Rows: 0
+2019-12-01 11:56:36	NewBlock 71, Txs: 0, Rows: 0
+2019-12-01 11:56:36	NewBlock 72, Txs: 0, Rows: 0
+2019-12-01 11:56:36	NewBlock 73, Txs: 0, Rows: 0
+2019-12-01 11:56:36	NewBlock 74, Txs: 0, Rows: 0
+2019-12-01 11:56:36	NewBlock 75, Txs: 0, Rows: 0
+2019-12-01 11:56:36	Tx 57516141b0092a45532a56632fa56ea3c58c2475d91911345a08f7fb79cf40fb ignored for import 5
+2019-12-01 11:56:36	NewBlock 76, Txs: 0, Rows: 0
+2019-12-01 11:56:36	NewBlock 77, Txs: 0, Rows: 0
+2019-12-01 11:56:36	Tx 13f5de9d4f1d0ad4708a1ce18fe2068a0ed2cca5e8aa3e93df8ab4e1aea4c008 ignored for import 5
+2019-12-01 11:56:36	Tx 976f858020451154520406e183713fadd0834693d8a2d874719db59ff0157c1c ignored for import 5
+2019-12-01 11:56:36	Tx f1a5defedeeea8b70043646c577244093a0ee227c342dd41d1fc0cb3717429da ignored for import 5
+2019-12-01 11:56:36	NewBlock 78, Txs: 0, Rows: 0
+2019-12-01 11:56:36	Tx 8fed4c9d59f8ef5d1c24014bfe8e32528110a62aae9e0d97473c2d291258370a ignored for import 5
+2019-12-01 11:56:36	NewBlock 79, Txs: 0, Rows: 0
+2019-12-01 11:56:36	Import: 5, Transferring entity (00000105, 00000000e4bccd1ac80be11b34afa38a9bbd8c8d) to the chain, txs: 0
+2019-12-01 11:56:36	Import: 5, Transferring entity (00000205, 00000000e4bccd1ac80be11b34afa38a9bbd8c8d) to the chain, txs: 0
+2019-12-01 11:56:36	Import: 5, Transferring entity (00000106, 00000000e4bccd1ac80be11b34afa38a9bbd8c8d) to the chain, txs: 0
+2019-12-01 11:56:36	Import: 5, Transferring entity (00000206, 00000000e4bccd1ac80be11b34afa38a9bbd8c8d) to the chain, txs: 0
+2019-12-01 11:56:36	Import: 5, Transferring entity (00000107, 00000000e4bccd1ac80be11b34afa38a9bbd8c8d) to the chain, txs: 0
+2019-12-01 11:56:36	Import: 5, Transferring entity (00000207, 00000000e4bccd1ac80be11b34afa38a9bbd8c8d) to the chain, txs: 0
+2019-12-01 11:56:36	CompleteImport: Successfully updated chain after import 5, removing old records
+2019-12-01 11:56:36	CompleteImport: Import 5 completed
+2019-12-01 11:56:36	Entity (00000105, 00000000e4bccd1ac80be11b34afa38a9bbd8c8d) already in the wallet
+2019-12-01 11:56:37	NewBlock 80, Txs: 0, Rows: 0
+2019-12-01 11:56:43	NewBlock 81, Txs: 0, Rows: 0
+2019-12-01 11:56:56	NewBlock 82, Txs: 0, Rows: 0
+2019-12-01 11:57:24	NewBlock 83, Txs: 0, Rows: 0
+2019-12-01 11:57:29	NewBlock 84, Txs: 0, Rows: 0
+2019-12-01 11:57:44	NewBlock 85, Txs: 0, Rows: 0
+2019-12-01 11:58:03	NewBlock 86, Txs: 0, Rows: 0
+2019-12-01 11:58:19	NewBlock 87, Txs: 0, Rows: 0
+2019-12-01 11:58:37	NewBlock 88, Txs: 0, Rows: 0
+2019-12-01 11:58:51	NewBlock 89, Txs: 0, Rows: 0
+2019-12-01 12:00:27	NewTx a1d9944afb308eb1c2eb1c7a88d86075aa42d2d13654f95edf3e57b02d915dc5, block -1, flags 00030004, import 0
+2019-12-01 12:00:39	UpdateTx a1d9944afb, block 90, flags 00030004, import 0
+2019-12-01 12:00:39	NewBlock 90, Txs: 1, Rows: 20
+2019-12-01 12:00:41	NewTx a8d5c917bac60629538294d035300e42c8401819f97f4217c71b591cedeb646f, block -1, flags 00030004, import 0
+2019-12-01 12:00:48	NewTx 2c732343313455dfe38017dcb5c03ab13300ae967798ab656a4d5576808af77c, block -1, flags 00030004, import 0
+2019-12-01 12:00:51	UpdateTx a8d5c917ba, block 91, flags 00030004, import 0
+2019-12-01 12:00:51	UpdateTx 2c73234331, block 91, flags 00030004, import 0
+2019-12-01 12:00:51	NewBlock 91, Txs: 2, Rows: 28
+2019-12-01 12:00:58	NewTx 5f96cc11bff9573b2d599cf7157a8275c3e5462706e9fa67337a69d9e4f39088, block -1, flags 00030004, import 0
+2019-12-01 12:00:59	UpdateTx 5f96cc11bf, block 92, flags 00030004, import 0
+2019-12-01 12:00:59	NewBlock 92, Txs: 1, Rows: 16
+2019-12-01 12:01:05	NewTx 4ecd5a0424e9bf3fcf0b51ebc7f79c514b31f1ba0798223779434899c5d2ff7a, block -1, flags 00030004, import 0
+2019-12-01 12:01:07	UpdateTx 4ecd5a0424, block 93, flags 00030004, import 0
+2019-12-01 12:01:07	NewBlock 93, Txs: 1, Rows: 16
+2019-12-01 12:01:21	NewBlock 94, Txs: 0, Rows: 0
+2019-12-01 12:01:23	NewTx fe532c18a599c3779279714ecea96330db3031a6ada53eb9a01db75bda3f3098, block -1, flags 00030004, import 0
+2019-12-01 12:01:33	NewTx 7de2d3798638ac15bb221aa144c08a44ca2f084cc644c85e4bc409183e69e240, block -1, flags 00030004, import 0
+2019-12-01 12:01:33	UpdateTx fe532c18a5, block 95, flags 00030004, import 0
+2019-12-01 12:01:33	UpdateTx 7de2d37986, block 95, flags 00030004, import 0
+2019-12-01 12:01:33	NewBlock 95, Txs: 2, Rows: 28
+2019-12-01 12:01:36	NewBlock 96, Txs: 0, Rows: 0
+2019-12-01 12:01:46	NewBlock 97, Txs: 0, Rows: 0
+2019-12-01 12:01:55	NewBlock 98, Txs: 0, Rows: 0
+2019-12-01 12:02:11	NewTx 5782358b601db6336a2dc0e47b658e74e6c91f7140b53550ca55e49ce14897c0, block -1, flags 00030004, import 0
+2019-12-01 12:02:19	UpdateTx 5782358b60, block 99, flags 00030004, import 0
+2019-12-01 12:02:19	NewBlock 99, Txs: 1, Rows: 16
+2019-12-01 12:02:19	NewTx 039bc8a639d136c6bfb3de03aa9471e37226feb912294371823d60e37afc4c6a, block -1, flags 00030004, import 0
+2019-12-01 12:02:31	NewTx d70ee6fdc058a932174650c7d8a49e5c96eda3098e494d0fcda4d1b6a0ad0c83, block -1, flags 00030004, import 0
+2019-12-01 12:02:37	UpdateTx 039bc8a639, block 100, flags 00030004, import 0
+2019-12-01 12:02:37	UpdateTx d70ee6fdc0, block 100, flags 00030004, import 0
+2019-12-01 12:02:37	NewBlock 100, Txs: 2, Rows: 28
+2019-12-01 12:02:45	NewTx ba6efb99f374eb51a985f9e6d24d9c226223d636780d69e79ee1702017be8a47, block -1, flags 00030004, import 0
+2019-12-01 12:02:57	UpdateTx ba6efb99f3, block 101, flags 00030004, import 0
+2019-12-01 12:02:57	NewBlock 101, Txs: 1, Rows: 16
+2019-12-01 12:03:08	NewTx 7542621a42364e6c13f508817bd9bb523579ddf817db61e03bc8d6cc3a19132f, block -1, flags 00030004, import 0
+2019-12-01 12:03:14	UpdateTx 7542621a42, block 102, flags 00030004, import 0
+2019-12-01 12:03:14	NewBlock 102, Txs: 1, Rows: 16
+2019-12-01 12:03:22	NewTx 1699efe6411eb8e264442f148cd30e724482f4a6003d08f00f314f62c2e12e76, block -1, flags 00030004, import 0
+2019-12-01 12:03:24	UpdateTx 1699efe641, block 103, flags 00030004, import 0
+2019-12-01 12:03:24	NewBlock 103, Txs: 1, Rows: 16
+2019-12-01 12:03:38	NewBlock 104, Txs: 0, Rows: 0
+2019-12-01 12:03:54	NewBlock 105, Txs: 0, Rows: 0
+2019-12-01 12:04:13	NewTx 047b01858c81d0a0859ded59d57c83908ed57c44956b1cdd25006d8ddc7f82d4, block -1, flags 00030004, import 0
+2019-12-01 12:04:14	UpdateTx 047b01858c, block 106, flags 00030004, import 0
+2019-12-01 12:04:14	NewBlock 106, Txs: 1, Rows: 16
+2019-12-01 12:04:24	NewBlock 107, Txs: 0, Rows: 0
+2019-12-01 12:04:26	NewTx 39a0b3ca91e45cd13b8d036e622cd7b292cf6ab705cc5ebfb7bfb9059023595f, block -1, flags 00030004, import 0
+2019-12-01 12:04:45	UpdateTx 39a0b3ca91, block 108, flags 00030004, import 0
+2019-12-01 12:04:45	NewBlock 108, Txs: 1, Rows: 16
+2019-12-01 12:04:47	NewTx 496f1e2c0e7c6ba93907bf572360fe5a40a2a38e86421493ec82e52517334715, block -1, flags 00030004, import 0
+2019-12-01 12:04:57	UpdateTx 496f1e2c0e, block 109, flags 00030004, import 0
+2019-12-01 12:04:57	NewBlock 109, Txs: 1, Rows: 16
+2019-12-01 12:05:07	NewBlock 110, Txs: 0, Rows: 0
+2019-12-01 12:05:13	NewTx 25f4aa030d31d9d884d225eca3e109f69d6a1d4f9c31c86a97276ebec6df07f1, block -1, flags 00030004, import 0
+2019-12-01 12:05:21	UpdateTx 25f4aa030d, block 111, flags 00030004, import 0
+2019-12-01 12:05:21	NewBlock 111, Txs: 1, Rows: 16
+2019-12-01 12:05:35	NewTx 51bf6c5eecbb6aa5c5c2a026f8ba669a2538f17fd84162f1833006590463c31d, block -1, flags 00030004, import 0
+2019-12-01 12:05:43	UpdateTx 51bf6c5eec, block 112, flags 00030004, import 0
+2019-12-01 12:05:43	NewBlock 112, Txs: 1, Rows: 16
+2019-12-01 12:05:54	NewTx 04da4a0f99e67220bba2372237694c5289d24ce25e52116d633db4a72fea0529, block -1, flags 00030004, import 0
+2019-12-01 12:05:56	UpdateTx 04da4a0f99, block 113, flags 00030004, import 0
+2019-12-01 12:05:56	NewBlock 113, Txs: 1, Rows: 16
+2019-12-01 12:06:04	NewBlock 114, Txs: 0, Rows: 0
+2019-12-01 12:06:25	NewTx 628df1480c0019ea12c788c4d50070a04669af915d0712af60602a85858e73fb, block -1, flags 00030004, import 0
+2019-12-01 12:06:29	UpdateTx 628df1480c, block 115, flags 00030004, import 0
+2019-12-01 12:06:29	NewBlock 115, Txs: 1, Rows: 16
+2019-12-01 12:06:38	NewTx a52c077fc5310e86a2f394a794ef9420c00b0afd7efc86627dc233e914bcdcfa, block -1, flags 00030004, import 0
+2019-12-01 12:06:41	UpdateTx a52c077fc5, block 116, flags 00030004, import 0
+2019-12-01 12:06:41	NewBlock 116, Txs: 1, Rows: 16
+2019-12-01 12:06:51	NewBlock 117, Txs: 0, Rows: 0
+2019-12-01 12:07:14	NewTx c51f65b19689e8849141b15c4ac8c11c496b5149dcad6ff1157525907f8f7990, block -1, flags 00030004, import 0
+2019-12-01 12:07:17	UpdateTx c51f65b196, block 118, flags 00030004, import 0
+2019-12-01 12:07:17	NewBlock 118, Txs: 1, Rows: 16
+2019-12-01 12:07:21	NewBlock 119, Txs: 0, Rows: 0
+2019-12-01 12:07:27	NewTx 0dd99418ae6d943d372e97da9393f416abefa0c5cde6268cf4a444677c3d0ef5, block -1, flags 00030004, import 0
+2019-12-01 12:07:43	NewTx 606afd7429c11660ac6f974ca34b5f482261c5b5d4ae1cf4fa6884a627c7b7ce, block -1, flags 00030004, import 0
+2019-12-01 12:07:46	UpdateTx 0dd99418ae, block 120, flags 00030004, import 0
+2019-12-01 12:07:46	UpdateTx 606afd7429, block 120, flags 00030004, import 0
+2019-12-01 12:07:46	NewBlock 120, Txs: 2, Rows: 28
+2019-12-01 12:07:58	NewTx 3ea547ca5318b2a1bf0c6389a140a18e717bddf583c1e5b99380db51d4198652, block -1, flags 00030004, import 0
+2019-12-01 12:07:59	UpdateTx 3ea547ca53, block 121, flags 00030004, import 0
+2019-12-01 12:07:59	NewBlock 121, Txs: 1, Rows: 16
+2019-12-01 12:08:08	NewBlock 122, Txs: 0, Rows: 0
+2019-12-01 12:08:17	NewTx f4dfd9908d9291a0e1261ab464899ecbeb3e98490d16379c39b7e07bd1c17aa5, block -1, flags 00030004, import 0
+2019-12-01 12:08:25	UpdateTx f4dfd9908d, block 123, flags 00030004, import 0
+2019-12-01 12:08:25	NewBlock 123, Txs: 1, Rows: 16
+2019-12-01 12:08:36	NewBlock 124, Txs: 0, Rows: 0
+2019-12-01 12:09:02	NewBlock 125, Txs: 0, Rows: 0
+2019-12-01 12:09:14	NewBlock 126, Txs: 0, Rows: 0
+2019-12-01 12:09:21	NewTx 500e7f90f635ea2df34feec877326bc45ae03206382f29c1e210999bbb9f6f5a, block -1, flags 00030004, import 0
+2019-12-01 12:09:21	UpdateTx 500e7f90f6, block 127, flags 00030004, import 0
+2019-12-01 12:09:21	NewBlock 127, Txs: 1, Rows: 20
+2019-12-01 12:09:32	NewTx 33e6398554629fe13e9aa07d726c88b11de5ab08ca8b81630c6615396f97d98e, block -1, flags 00030004, import 0
+2019-12-01 12:09:41	NewTx afa384da8151106fc6c051e8ed4dbb0694995538f8e3fda85ad8d5ddb430fdbc, block -1, flags 00030004, import 0
+2019-12-01 12:09:47	UpdateTx 33e6398554, block 128, flags 00030004, import 0
+2019-12-01 12:09:47	UpdateTx afa384da81, block 128, flags 00030004, import 0
+2019-12-01 12:09:47	NewBlock 128, Txs: 2, Rows: 28
+2019-12-01 12:09:49	NewTx f17c18e3c5984b6e71247812fa26fbbbb94c7ca2d2890e99151cd162e498b9ed, block -1, flags 00030004, import 0
+2019-12-01 12:10:01	UpdateTx f17c18e3c5, block 129, flags 00030004, import 0
+2019-12-01 12:10:01	NewBlock 129, Txs: 1, Rows: 16
+2019-12-01 12:10:11	NewTx 44281dd57e8cad9cd130f436e979a9de84e6d00329f70a5a8dd733d248e54c02, block -1, flags 00030004, import 0
+2019-12-01 12:10:14	UpdateTx 44281dd57e, block 130, flags 00030004, import 0
+2019-12-01 12:10:14	NewBlock 130, Txs: 1, Rows: 16
+2019-12-01 12:10:23	NewBlock 131, Txs: 0, Rows: 0
+2019-12-01 12:10:23	NewTx 2005ea9a9f0d09fdd895cafa237e3684dba4414309ef58b5072e6454b63f82cc, block -1, flags 00030004, import 0
+2019-12-01 12:10:38	UpdateTx 2005ea9a9f, block 132, flags 00030004, import 0
+2019-12-01 12:10:38	NewBlock 132, Txs: 1, Rows: 16
+2019-12-01 12:11:02	NewBlock 133, Txs: 0, Rows: 0
+2019-12-01 12:11:12	NewBlock 134, Txs: 0, Rows: 0
+2019-12-01 12:11:23	NewBlock 135, Txs: 0, Rows: 0
+2019-12-01 12:11:42	NewBlock 136, Txs: 0, Rows: 0
+2019-12-01 12:11:44	NewTx 5ac2271a7ce068391c57953b40c8a7106893884ff55872da90bfad993281a27f, block -1, flags 00030004, import 0
+2019-12-01 12:11:52	NewTx fc730488333600a82570c664cfa4122236144471e18b71c21b7ba216cd1041a4, block -1, flags 00030004, import 0
+2019-12-01 12:11:59	NewTx 8176cc5996ebbabc475c19b71d417468b68c0d377b15957d546962531496713e, block -1, flags 00030004, import 0
+2019-12-01 12:12:01	UpdateTx 5ac2271a7c, block 137, flags 00030004, import 0
+2019-12-01 12:12:01	UpdateTx fc73048833, block 137, flags 00030004, import 0
+2019-12-01 12:12:01	UpdateTx 8176cc5996, block 137, flags 00030004, import 0
+2019-12-01 12:12:01	NewBlock 137, Txs: 3, Rows: 44
+2019-12-01 12:12:05	NewTx 9e0b1baeedb12b6c4f8a8207a0d6247988e52d26b29c662a74ca0b4fb05f461c, block -1, flags 00030004, import 0
+2019-12-01 12:12:10	NewTx 2e4c41f4fd16c72e35d19bbedb597e578b43bcd2ebf6fa644f8e7ca588d50742, block -1, flags 00030004, import 0
+2019-12-01 12:12:11	UpdateTx 9e0b1baeed, block 138, flags 00030004, import 0
+2019-12-01 12:12:11	UpdateTx 2e4c41f4fd, block 138, flags 00030004, import 0
+2019-12-01 12:12:11	NewBlock 138, Txs: 2, Rows: 28
+2019-12-01 12:12:17	NewTx 0159f9e8f4c8fbad26b23a07242ae9e184f197a3d7f6be49db7f385c0abe05e1, block -1, flags 00030004, import 0
+2019-12-01 12:12:22	NewTx d3e2003bbd48e2088eb02a6c700082ccecc2dbd8464c1361b90481d15c2f60d9, block -1, flags 00030004, import 0
+2019-12-01 12:12:24	UpdateTx 0159f9e8f4, block 139, flags 00030004, import 0
+2019-12-01 12:12:24	UpdateTx d3e2003bbd, block 139, flags 00030004, import 0
+2019-12-01 12:12:24	NewBlock 139, Txs: 2, Rows: 28
+2019-12-01 12:12:26	NewTx 912988a617a30db431393cfee2f65031b3835d732025db4a8084f7691d8a03c0, block -1, flags 00030004, import 0
+2019-12-01 12:12:44	UpdateTx 912988a617, block 140, flags 00030004, import 0
+2019-12-01 12:12:44	NewBlock 140, Txs: 1, Rows: 16
+2019-12-01 12:13:00	NewBlock 141, Txs: 0, Rows: 0
+2019-12-01 12:13:17	NewBlock 142, Txs: 0, Rows: 0
+2019-12-01 12:13:31	NewBlock 143, Txs: 0, Rows: 0
+2019-12-01 12:13:44	NewBlock 144, Txs: 0, Rows: 0
+2019-12-01 12:13:54	NewBlock 145, Txs: 0, Rows: 0
+2019-12-01 12:14:12	NewBlock 146, Txs: 0, Rows: 0
+2019-12-01 12:14:32	NewTx 5067c9faa652d8affce50a3abb712a001018929da4780c16e73130688c823c2a, block -1, flags 00030004, import 0
+2019-12-01 12:14:34	UpdateTx 5067c9faa6, block 147, flags 00030004, import 0
+2019-12-01 12:14:34	NewBlock 147, Txs: 1, Rows: 20
+2019-12-01 12:14:37	NewBlock 148, Txs: 0, Rows: 0
+2019-12-01 12:14:59	NewBlock 149, Txs: 0, Rows: 0
+2019-12-01 12:15:14	NewTx 7d14f7389a78510516b653c932d8a24bf7dc77dcad331cbc9d2daae0e1fe7570, block -1, flags 00030004, import 0
+2019-12-01 12:15:16	UpdateTx 7d14f7389a, block 150, flags 00030004, import 0
+2019-12-01 12:15:16	NewBlock 150, Txs: 1, Rows: 16
+2019-12-01 12:15:28	NewBlock 151, Txs: 0, Rows: 0
+2019-12-01 12:15:37	NewTx b0f0ec59151e041457f287144d2725ffe6412c6b332a4dbee6294ee1257eee7b, block -1, flags 00030004, import 0
+2019-12-01 12:15:38	UpdateTx b0f0ec5915, block 152, flags 00030004, import 0
+2019-12-01 12:15:38	NewBlock 152, Txs: 1, Rows: 16
+2019-12-01 12:15:56	NewTx bdaf905a1b778e75d8261dc5b956982f890db3c4bd9b07477f11d5f84e85bb48, block -1, flags 00030004, import 0
+2019-12-01 12:16:06	UpdateTx bdaf905a1b, block 153, flags 00030004, import 0
+2019-12-01 12:16:06	NewBlock 153, Txs: 1, Rows: 16
+2019-12-01 12:16:17	NewTx ac338a01eef86ecb9db2d4a2d0e126d6a30f9bdd4c2ce6e27185a24e850fed66, block -1, flags 00030004, import 0
+2019-12-01 12:16:21	UpdateTx ac338a01ee, block 154, flags 00030004, import 0
+2019-12-01 12:16:21	NewBlock 154, Txs: 1, Rows: 16
+2019-12-01 12:16:31	NewBlock 155, Txs: 0, Rows: 0
+2019-12-01 12:16:32	NewTx 3c590c3e5936178267c3bcf4968de4591462471f08c65cb33bc9994bd558f888, block -1, flags 00030004, import 0
+2019-12-01 12:16:43	UpdateTx 3c590c3e59, block 156, flags 00030004, import 0
+2019-12-01 12:16:43	NewBlock 156, Txs: 1, Rows: 16
+2019-12-01 12:17:00	NewBlock 157, Txs: 0, Rows: 0
+2019-12-01 12:17:13	NewBlock 158, Txs: 0, Rows: 0

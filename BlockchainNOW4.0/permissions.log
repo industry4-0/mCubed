@@ -1,0 +1,444 @@
+2019-12-01 11:19:44	Initialized: Admin count: 0, Miner count: 0, ledger rows: 1
+2019-12-01 11:19:44	Grant: (00000000-ba51a79c-00000001-ba51a79c) (0--1, 1575191984), In consensus: 1, Admin count: 0, Miner count: 0
+2019-12-01 11:19:44	Grant: (00000000-ba51a79c-00000002-ba51a79c) (0--1, 1575191984), In consensus: 1, Admin count: 0, Miner count: 0
+2019-12-01 11:19:44	Grant: (00000000-ba51a79c-00000004-ba51a79c) (0--1, 1575191984), In consensus: 1, Admin count: 0, Miner count: 0
+2019-12-01 11:19:44	Grant: (00000000-ba51a79c-00000020-ba51a79c) (0--1, 1575191984), In consensus: 1, Admin count: 0, Miner count: 0
+2019-12-01 11:19:44	Grant: (00000000-ba51a79c-00000010-ba51a79c) (0--1, 1575191984), In consensus: 1, Admin count: 0, Miner count: 0
+2019-12-01 11:19:44	Grant: (00000000-ba51a79c-00002000-ba51a79c) (0--1, 1575191984), In consensus: 1, Admin count: 0, Miner count: 0
+2019-12-01 11:19:44	Grant: (00000000-ba51a79c-00000100-ba51a79c) (0--1, 1575191984), In consensus: 1, Admin count: 0, Miner count: 1
+2019-12-01 11:19:44	Grant: (00000000-ba51a79c-00001000-ba51a79c) (0--1, 1575191984), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:19:44	Grant: (b527ac6f-00000000-00000001-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:19:44	Grant: (b527ac6f-ba51a79c-00000008-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:19:44	Grant: (b527ac6f-ba51a79c-00000080-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:19:44	Grant: (b527ac6f-ba51a79c-00002000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:19:44	Grant: (b527ac6f-ba51a79c-00001000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:19:44	Block commit:         0 (Hash: be9ff179, Miner: ba51a79c), Admin count: 1, Miner count: 1, Ledger Rows: 16
+2019-12-01 11:19:44	Block commit:         1 (Hash: c05ddc04, Miner: ba51a79c), Admin count: 1, Miner count: 1, Ledger Rows: 18
+2019-12-01 11:19:44	Block commit:         2 (Hash: e782aafe, Miner: ba51a79c), Admin count: 1, Miner count: 1, Ledger Rows: 20
+2019-12-01 11:19:52	Block commit:         3 (Hash: daa7d038, Miner: ba51a79c), Admin count: 1, Miner count: 1, Ledger Rows: 22
+2019-12-01 11:20:09	Block commit:         4 (Hash: 97791d4f, Miner: ba51a79c), Admin count: 1, Miner count: 1, Ledger Rows: 24
+2019-12-01 11:20:17	Initialized: Admin count: 1, Miner count: 1, ledger rows: 24
+2019-12-01 11:20:18	Block rollback:         4, Admin count: 1, Miner count: 1, Ledger Rows: 24
+2019-12-01 11:20:25	Block commit:         5 (Hash: c54963ab, Miner: ba51a79c), Admin count: 1, Miner count: 1, Ledger Rows: 26
+2019-12-01 11:20:42	Block commit:         6 (Hash: f63d801d, Miner: ba51a79c), Admin count: 1, Miner count: 1, Ledger Rows: 28
+2019-12-01 11:20:53	Block commit:         7 (Hash: 9cc01c21, Miner: ba51a79c), Admin count: 1, Miner count: 1, Ledger Rows: 30
+2019-12-01 11:21:47	Initialized: Admin count: 1, Miner count: 1, ledger rows: 30
+2019-12-01 11:21:47	Block rollback:         7, Admin count: 1, Miner count: 1, Ledger Rows: 30
+2019-12-01 11:21:55	Block commit:         8 (Hash: 19ad6e3c, Miner: ba51a79c), Admin count: 1, Miner count: 1, Ledger Rows: 32
+2019-12-01 11:22:01	Initialized: Admin count: 1, Miner count: 1, ledger rows: 32
+2019-12-01 11:22:02	Block rollback:         8, Admin count: 1, Miner count: 1, Ledger Rows: 32
+2019-12-01 11:22:09	Block commit:         9 (Hash: 1dff8ba1, Miner: ba51a79c), Admin count: 1, Miner count: 1, Ledger Rows: 34
+2019-12-01 11:22:26	Block commit:        10 (Hash: 850794cf, Miner: ba51a79c), Admin count: 1, Miner count: 1, Ledger Rows: 36
+2019-12-01 11:22:37	Block commit:        11 (Hash: 7bf06f39, Miner: ba51a79c), Admin count: 1, Miner count: 1, Ledger Rows: 38
+2019-12-01 11:22:58	Block commit:        12 (Hash: c9f1945d, Miner: ba51a79c), Admin count: 1, Miner count: 1, Ledger Rows: 40
+2019-12-01 11:23:14	Block commit:        13 (Hash: 7b941be9, Miner: ba51a79c), Admin count: 1, Miner count: 1, Ledger Rows: 42
+2019-12-01 11:23:30	Block commit:        14 (Hash: 1b7f39c7, Miner: ba51a79c), Admin count: 1, Miner count: 1, Ledger Rows: 44
+2019-12-01 11:23:44	Block commit:        15 (Hash: 6aa2de74, Miner: ba51a79c), Admin count: 1, Miner count: 1, Ledger Rows: 46
+2019-12-01 11:24:05	Block commit:        16 (Hash: 0e460281, Miner: ba51a79c), Admin count: 1, Miner count: 1, Ledger Rows: 48
+2019-12-01 11:24:25	Block commit:        17 (Hash: d64b72ab, Miner: ba51a79c), Admin count: 1, Miner count: 1, Ledger Rows: 50
+2019-12-01 11:33:33	Initialized: Admin count: 1, Miner count: 1, ledger rows: 50
+2019-12-01 11:33:33	Block rollback:        17, Admin count: 1, Miner count: 1, Ledger Rows: 50
+2019-12-01 11:33:41	Block commit:        18 (Hash: ae1cf8d0, Miner: ba51a79c), Admin count: 1, Miner count: 1, Ledger Rows: 52
+2019-12-01 11:33:58	Block commit:        19 (Hash: b7302ca0, Miner: ba51a79c), Admin count: 1, Miner count: 1, Ledger Rows: 54
+2019-12-01 11:35:33	Initialized: Admin count: 1, Miner count: 1, ledger rows: 54
+2019-12-01 11:35:33	Block rollback:        19, Admin count: 1, Miner count: 1, Ledger Rows: 54
+2019-12-01 11:41:06	Initialized: Admin count: 1, Miner count: 1, ledger rows: 54
+2019-12-01 11:41:06	Block rollback:        19, Admin count: 1, Miner count: 1, Ledger Rows: 54
+2019-12-01 11:41:14	Block commit:        20 (Hash: 8cc603a1, Miner: ba51a79c), Admin count: 1, Miner count: 1, Ledger Rows: 56
+2019-12-01 11:41:31	Block commit:        21 (Hash: 9d3c1f32, Miner: ba51a79c), Admin count: 1, Miner count: 1, Ledger Rows: 58
+2019-12-01 11:41:42	Block commit:        22 (Hash: 7fb3af4c, Miner: ba51a79c), Admin count: 1, Miner count: 1, Ledger Rows: 60
+2019-12-01 11:42:02	Block commit:        23 (Hash: 57f10209, Miner: ba51a79c), Admin count: 1, Miner count: 1, Ledger Rows: 62
+2019-12-01 11:42:18	Block commit:        24 (Hash: b9bdd788, Miner: ba51a79c), Admin count: 1, Miner count: 1, Ledger Rows: 64
+2019-12-01 11:42:34	Block commit:        25 (Hash: 6b268983, Miner: ba51a79c), Admin count: 1, Miner count: 1, Ledger Rows: 66
+2019-12-01 11:42:47	Block commit:        26 (Hash: a2dba6c5, Miner: ba51a79c), Admin count: 1, Miner count: 1, Ledger Rows: 68
+2019-12-01 11:42:57	Grant: (00000000-c663e242-00000001-ba51a79c) (0--1, 1575193377), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:42:57	Grant: (00000000-c663e242-00000002-ba51a79c) (0--1, 1575193377), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:42:57	Grant: (00000000-c663e242-00000004-ba51a79c) (0--1, 1575193377), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:42:57	Grant: (00000000-c663e242-00000200-ba51a79c) (0--1, 1575193377), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:42:57	Grant: (00000000-c663e242-00000400-ba51a79c) (0--1, 1575193377), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:42:57	Grant: (00000000-c663e242-00000800-ba51a79c) (0--1, 1575193377), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:42:57	Grant: (00000000-c663e242-00000020-ba51a79c) (0--1, 1575193377), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:42:57	Grant: (00000000-c663e242-00000010-ba51a79c) (0--1, 1575193377), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:42:57	Grant: (00000000-c663e242-00002000-ba51a79c) (0--1, 1575193377), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:42:57	Grant: (00000000-c663e242-00020000-ba51a79c) (0--1, 1575193377), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:42:57	Grant: (00000000-c663e242-00040000-ba51a79c) (0--1, 1575193377), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:42:57	Grant: (00000000-c663e242-00080000-ba51a79c) (0--1, 1575193377), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:42:57	Grant: (00000000-c663e242-00001000-ba51a79c) (0--1, 1575193377), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:43:18	Mempool copy:        26, Admin count: 2, Miner count: 1, Ledger Rows: 81
+2019-12-01 11:43:18	Grant: (00000000-c663e242-00001000-ba51a79c) (0--1, 1575193377), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:43:18	Mempool ramv:        26, Admin count: 2, Miner count: 1, Ledger Rows: 81
+2019-12-01 11:43:18	Mempool copy:        26, Admin count: 2, Miner count: 1, Ledger Rows: 81
+2019-12-01 11:43:18	Mempool clr :        26, Admin count: 1, Miner count: 1, Ledger Rows: 68
+2019-12-01 11:43:18	Mempool rstr:        26, Admin count: 2, Miner count: 1, Ledger Rows: 81
+2019-12-01 11:43:18	Mempool clr :        26, Admin count: 1, Miner count: 1, Ledger Rows: 68
+2019-12-01 11:43:18	Grant: (00000000-c663e242-00000001-ba51a79c) (0--1, 1575193377), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:43:18	Grant: (00000000-c663e242-00000002-ba51a79c) (0--1, 1575193377), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:43:18	Grant: (00000000-c663e242-00000004-ba51a79c) (0--1, 1575193377), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:43:18	Grant: (00000000-c663e242-00000200-ba51a79c) (0--1, 1575193377), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:43:18	Grant: (00000000-c663e242-00000400-ba51a79c) (0--1, 1575193377), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:43:18	Grant: (00000000-c663e242-00000800-ba51a79c) (0--1, 1575193377), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:43:18	Grant: (00000000-c663e242-00000020-ba51a79c) (0--1, 1575193377), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:43:18	Grant: (00000000-c663e242-00000010-ba51a79c) (0--1, 1575193377), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:43:18	Grant: (00000000-c663e242-00002000-ba51a79c) (0--1, 1575193377), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:43:18	Grant: (00000000-c663e242-00020000-ba51a79c) (0--1, 1575193377), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:43:18	Grant: (00000000-c663e242-00040000-ba51a79c) (0--1, 1575193377), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:43:18	Grant: (00000000-c663e242-00080000-ba51a79c) (0--1, 1575193377), In consensus: 1, Admin count: 1, Miner count: 1
+2019-12-01 11:43:18	Grant: (00000000-c663e242-00001000-ba51a79c) (0--1, 1575193377), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:43:18	Block commit:        27 (Hash: 838ca6c4, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 83
+2019-12-01 11:43:37	Block commit:        28 (Hash: 1f812e49, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 85
+2019-12-01 11:43:48	Block commit:        29 (Hash: 3bd9cf8b, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 87
+2019-12-01 11:44:09	Block commit:        30 (Hash: 4cffb5d8, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 89
+2019-12-01 11:44:28	Block commit:        31 (Hash: 8ffb9dc5, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 91
+2019-12-01 11:44:36	Block commit:        32 (Hash: 78f115e7, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 93
+2019-12-01 11:44:41	Block commit:        33 (Hash: d929bc2d, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 95
+2019-12-01 11:44:51	Block commit:        34 (Hash: b1441a5d, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 97
+2019-12-01 11:45:08	Block commit:        35 (Hash: 2680c079, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 99
+2019-12-01 11:45:28	Block commit:        36 (Hash: dd8da2b5, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 101
+2019-12-01 11:45:40	Block commit:        37 (Hash: a103fd04, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 103
+2019-12-01 11:45:40	Grant: (00000000-ba51a79c-00000001-ba51a79c) (0--1, 1575193540), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:40	Grant: (00000000-ba51a79c-00000002-ba51a79c) (0--1, 1575193540), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:40	Grant: (00000000-ba51a79c-00000004-ba51a79c) (0--1, 1575193540), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:40	Grant: (00000000-ba51a79c-00000200-ba51a79c) (0--1, 1575193540), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:40	Grant: (00000000-ba51a79c-00000800-ba51a79c) (0--1, 1575193540), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:40	Grant: (00000000-ba51a79c-00000020-ba51a79c) (0--1, 1575193540), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:40	Grant: (00000000-ba51a79c-00000010-ba51a79c) (0--1, 1575193540), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:40	Grant: (00000000-ba51a79c-00002000-ba51a79c) (0--1, 1575193540), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:40	Grant: (00000000-ba51a79c-00020000-ba51a79c) (0--1, 1575193540), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:40	Grant: (00000000-ba51a79c-00040000-ba51a79c) (0--1, 1575193540), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:40	Grant: (00000000-ba51a79c-00080000-ba51a79c) (0--1, 1575193540), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:40	Grant: (00000000-ba51a79c-00000100-ba51a79c) (0--1, 1575193540), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:40	Grant: (00000000-ba51a79c-00001000-ba51a79c) (0--1, 1575193540), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:49	Grant: (00000000-ba51a79c-00000001-ba51a79c) (0--1, 1575193549), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:49	Grant: (00000000-ba51a79c-00000002-ba51a79c) (0--1, 1575193549), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:49	Grant: (00000000-ba51a79c-00000004-ba51a79c) (0--1, 1575193549), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:49	Grant: (00000000-ba51a79c-00000200-ba51a79c) (0--1, 1575193549), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:49	Grant: (00000000-ba51a79c-00000400-ba51a79c) (0--1, 1575193549), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:49	Grant: (00000000-ba51a79c-00000800-ba51a79c) (0--1, 1575193549), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:49	Grant: (00000000-ba51a79c-00000010-ba51a79c) (0--1, 1575193549), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:49	Grant: (00000000-ba51a79c-00002000-ba51a79c) (0--1, 1575193549), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:49	Grant: (00000000-ba51a79c-00020000-ba51a79c) (0--1, 1575193549), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:49	Grant: (00000000-ba51a79c-00040000-ba51a79c) (0--1, 1575193549), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:49	Grant: (00000000-ba51a79c-00080000-ba51a79c) (0--1, 1575193549), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:49	Grant: (00000000-ba51a79c-00000100-ba51a79c) (0--1, 1575193549), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:49	Grant: (00000000-ba51a79c-00001000-ba51a79c) (0--1, 1575193549), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Mempool copy:        37, Admin count: 2, Miner count: 1, Ledger Rows: 129
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00000100-ba51a79c) (0--1, 1575193540), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00001000-ba51a79c) (0--1, 1575193540), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00000100-ba51a79c) (0--1, 1575193549), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00001000-ba51a79c) (0--1, 1575193549), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Mempool ramv:        37, Admin count: 2, Miner count: 1, Ledger Rows: 129
+2019-12-01 11:45:56	Mempool copy:        37, Admin count: 2, Miner count: 1, Ledger Rows: 129
+2019-12-01 11:45:56	Mempool clr :        37, Admin count: 2, Miner count: 1, Ledger Rows: 103
+2019-12-01 11:45:56	Mempool rstr:        37, Admin count: 2, Miner count: 1, Ledger Rows: 129
+2019-12-01 11:45:56	Mempool clr :        37, Admin count: 2, Miner count: 1, Ledger Rows: 103
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00000001-ba51a79c) (0--1, 1575193540), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00000002-ba51a79c) (0--1, 1575193540), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00000004-ba51a79c) (0--1, 1575193540), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00000200-ba51a79c) (0--1, 1575193540), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00000800-ba51a79c) (0--1, 1575193540), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00000020-ba51a79c) (0--1, 1575193540), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00000010-ba51a79c) (0--1, 1575193540), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00002000-ba51a79c) (0--1, 1575193540), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00020000-ba51a79c) (0--1, 1575193540), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00040000-ba51a79c) (0--1, 1575193540), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00080000-ba51a79c) (0--1, 1575193540), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00000100-ba51a79c) (0--1, 1575193540), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00001000-ba51a79c) (0--1, 1575193540), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00000001-ba51a79c) (0--1, 1575193549), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00000002-ba51a79c) (0--1, 1575193549), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00000004-ba51a79c) (0--1, 1575193549), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00000200-ba51a79c) (0--1, 1575193549), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00000400-ba51a79c) (0--1, 1575193549), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00000800-ba51a79c) (0--1, 1575193549), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00000010-ba51a79c) (0--1, 1575193549), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00002000-ba51a79c) (0--1, 1575193549), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00020000-ba51a79c) (0--1, 1575193549), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00040000-ba51a79c) (0--1, 1575193549), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00080000-ba51a79c) (0--1, 1575193549), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00000100-ba51a79c) (0--1, 1575193549), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Grant: (00000000-ba51a79c-00001000-ba51a79c) (0--1, 1575193549), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:45:56	Block commit:        38 (Hash: 7ef8e7e1, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 131
+2019-12-01 11:46:15	Block commit:        39 (Hash: 1533ed95, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 133
+2019-12-01 11:46:25	Block commit:        40 (Hash: 59a80e98, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 135
+2019-12-01 11:46:32	Grant: (e5f97446-00000000-00000001-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:46:32	Grant: (e5f97446-ba51a79c-00000002-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:46:32	Grant: (e5f97446-ba51a79c-00000004-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:46:32	Grant: (e5f97446-ba51a79c-00000010-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:46:32	Grant: (e5f97446-ba51a79c-00002000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:46:32	Grant: (e5f97446-ba51a79c-00001000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:46:37	Mempool copy:        40, Admin count: 2, Miner count: 1, Ledger Rows: 141
+2019-12-01 11:46:37	Mempool ramv:        40, Admin count: 2, Miner count: 1, Ledger Rows: 141
+2019-12-01 11:46:37	Mempool copy:        40, Admin count: 2, Miner count: 1, Ledger Rows: 141
+2019-12-01 11:46:37	Mempool clr :        40, Admin count: 2, Miner count: 1, Ledger Rows: 135
+2019-12-01 11:46:37	Mempool rstr:        40, Admin count: 2, Miner count: 1, Ledger Rows: 141
+2019-12-01 11:46:37	Mempool clr :        40, Admin count: 2, Miner count: 1, Ledger Rows: 135
+2019-12-01 11:46:37	Grant: (e5f97446-00000000-00000001-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:46:37	Grant: (e5f97446-ba51a79c-00000002-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:46:37	Grant: (e5f97446-ba51a79c-00000004-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:46:37	Grant: (e5f97446-ba51a79c-00000010-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:46:37	Grant: (e5f97446-ba51a79c-00002000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:46:37	Grant: (e5f97446-ba51a79c-00001000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:46:37	Block commit:        41 (Hash: c42fc3c8, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 143
+2019-12-01 11:46:52	Block commit:        42 (Hash: 50c58aab, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 145
+2019-12-01 11:47:11	Block commit:        43 (Hash: 73eaf94a, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 147
+2019-12-01 11:47:26	Block commit:        44 (Hash: 555ed5d9, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 149
+2019-12-01 11:47:30	Grant: (50936b35-00000000-00000001-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:47:30	Grant: (50936b35-ba51a79c-00000002-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:47:30	Grant: (50936b35-ba51a79c-00000004-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:47:30	Grant: (50936b35-ba51a79c-00000010-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:47:30	Grant: (50936b35-ba51a79c-00002000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:47:30	Grant: (50936b35-ba51a79c-00001000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:47:42	Mempool copy:        44, Admin count: 2, Miner count: 1, Ledger Rows: 155
+2019-12-01 11:47:42	Mempool ramv:        44, Admin count: 2, Miner count: 1, Ledger Rows: 155
+2019-12-01 11:47:42	Mempool copy:        44, Admin count: 2, Miner count: 1, Ledger Rows: 155
+2019-12-01 11:47:42	Mempool clr :        44, Admin count: 2, Miner count: 1, Ledger Rows: 149
+2019-12-01 11:47:42	Mempool rstr:        44, Admin count: 2, Miner count: 1, Ledger Rows: 155
+2019-12-01 11:47:42	Mempool clr :        44, Admin count: 2, Miner count: 1, Ledger Rows: 149
+2019-12-01 11:47:42	Grant: (50936b35-00000000-00000001-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:47:42	Grant: (50936b35-ba51a79c-00000002-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:47:42	Grant: (50936b35-ba51a79c-00000004-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:47:42	Grant: (50936b35-ba51a79c-00000010-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:47:42	Grant: (50936b35-ba51a79c-00002000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:47:42	Grant: (50936b35-ba51a79c-00001000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:47:42	Block commit:        45 (Hash: 676e92bb, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 157
+2019-12-01 11:47:57	Block commit:        46 (Hash: f76ae7c1, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 159
+2019-12-01 11:48:13	Block commit:        47 (Hash: 626b7455, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 161
+2019-12-01 11:48:22	Block commit:        48 (Hash: 1fa4b9c8, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 163
+2019-12-01 11:48:22	Grant: (22bc93ce-00000000-00000001-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:48:22	Grant: (22bc93ce-ba51a79c-00000002-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:48:22	Grant: (22bc93ce-ba51a79c-00000004-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:48:22	Grant: (22bc93ce-ba51a79c-00000010-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:48:22	Grant: (22bc93ce-ba51a79c-00002000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:48:22	Grant: (22bc93ce-ba51a79c-00001000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:48:44	Mempool copy:        48, Admin count: 2, Miner count: 1, Ledger Rows: 169
+2019-12-01 11:48:44	Mempool ramv:        48, Admin count: 2, Miner count: 1, Ledger Rows: 169
+2019-12-01 11:48:44	Mempool copy:        48, Admin count: 2, Miner count: 1, Ledger Rows: 169
+2019-12-01 11:48:44	Mempool clr :        48, Admin count: 2, Miner count: 1, Ledger Rows: 163
+2019-12-01 11:48:44	Mempool rstr:        48, Admin count: 2, Miner count: 1, Ledger Rows: 169
+2019-12-01 11:48:44	Mempool clr :        48, Admin count: 2, Miner count: 1, Ledger Rows: 163
+2019-12-01 11:48:44	Grant: (22bc93ce-00000000-00000001-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:48:44	Grant: (22bc93ce-ba51a79c-00000002-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:48:44	Grant: (22bc93ce-ba51a79c-00000004-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:48:44	Grant: (22bc93ce-ba51a79c-00000010-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:48:44	Grant: (22bc93ce-ba51a79c-00002000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:48:44	Grant: (22bc93ce-ba51a79c-00001000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:48:44	Block commit:        49 (Hash: 0c0ac2b9, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 171
+2019-12-01 11:48:56	Block commit:        50 (Hash: a87612c8, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 173
+2019-12-01 11:49:10	Block commit:        51 (Hash: 3423955a, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 175
+2019-12-01 11:49:20	Block commit:        52 (Hash: f9b4f80d, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 177
+2019-12-01 11:49:21	Grant: (3dcf2002-00000000-00000001-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:49:21	Grant: (3dcf2002-ba51a79c-00000002-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:49:21	Grant: (3dcf2002-ba51a79c-00000004-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:49:21	Grant: (3dcf2002-ba51a79c-00000010-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:49:21	Grant: (3dcf2002-ba51a79c-00002000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:49:21	Grant: (3dcf2002-ba51a79c-00001000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:49:42	Mempool copy:        52, Admin count: 2, Miner count: 1, Ledger Rows: 183
+2019-12-01 11:49:42	Mempool ramv:        52, Admin count: 2, Miner count: 1, Ledger Rows: 183
+2019-12-01 11:49:42	Mempool copy:        52, Admin count: 2, Miner count: 1, Ledger Rows: 183
+2019-12-01 11:49:42	Mempool clr :        52, Admin count: 2, Miner count: 1, Ledger Rows: 177
+2019-12-01 11:49:42	Mempool rstr:        52, Admin count: 2, Miner count: 1, Ledger Rows: 183
+2019-12-01 11:49:42	Mempool clr :        52, Admin count: 2, Miner count: 1, Ledger Rows: 177
+2019-12-01 11:49:42	Grant: (3dcf2002-00000000-00000001-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:49:42	Grant: (3dcf2002-ba51a79c-00000002-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:49:42	Grant: (3dcf2002-ba51a79c-00000004-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:49:42	Grant: (3dcf2002-ba51a79c-00000010-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:49:42	Grant: (3dcf2002-ba51a79c-00002000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:49:42	Grant: (3dcf2002-ba51a79c-00001000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:49:42	Block commit:        53 (Hash: 223a6fdf, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 185
+2019-12-01 11:50:01	Block commit:        54 (Hash: e59ddc84, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 187
+2019-12-01 11:50:03	Grant: (cbf07688-00000000-00000001-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:50:03	Grant: (cbf07688-ba51a79c-00000002-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:50:03	Grant: (cbf07688-ba51a79c-00000004-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:50:03	Grant: (cbf07688-ba51a79c-00000010-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:50:03	Grant: (cbf07688-ba51a79c-00002000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:50:03	Grant: (cbf07688-ba51a79c-00001000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:50:16	Mempool copy:        54, Admin count: 2, Miner count: 1, Ledger Rows: 193
+2019-12-01 11:50:16	Mempool ramv:        54, Admin count: 2, Miner count: 1, Ledger Rows: 193
+2019-12-01 11:50:16	Mempool copy:        54, Admin count: 2, Miner count: 1, Ledger Rows: 193
+2019-12-01 11:50:16	Mempool clr :        54, Admin count: 2, Miner count: 1, Ledger Rows: 187
+2019-12-01 11:50:16	Mempool rstr:        54, Admin count: 2, Miner count: 1, Ledger Rows: 193
+2019-12-01 11:50:16	Mempool clr :        54, Admin count: 2, Miner count: 1, Ledger Rows: 187
+2019-12-01 11:50:16	Grant: (cbf07688-00000000-00000001-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:50:16	Grant: (cbf07688-ba51a79c-00000002-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:50:16	Grant: (cbf07688-ba51a79c-00000004-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:50:16	Grant: (cbf07688-ba51a79c-00000010-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:50:16	Grant: (cbf07688-ba51a79c-00002000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:50:16	Grant: (cbf07688-ba51a79c-00001000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:50:16	Block commit:        55 (Hash: da8c469b, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 195
+2019-12-01 11:50:27	Block commit:        56 (Hash: 655e231f, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 197
+2019-12-01 11:50:39	Block commit:        57 (Hash: e61704a7, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 199
+2019-12-01 11:51:03	Block commit:        58 (Hash: 8de6065a, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 201
+2019-12-01 11:51:16	Block commit:        59 (Hash: 5e1b4fd7, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 203
+2019-12-01 11:51:19	Grant: (97bc5535-00000000-00000001-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:51:19	Grant: (97bc5535-ba51a79c-00000008-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:51:19	Grant: (97bc5535-ba51a79c-00000080-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:51:19	Grant: (97bc5535-ba51a79c-00002000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:51:19	Grant: (97bc5535-ba51a79c-00001000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:51:35	Mempool copy:        59, Admin count: 2, Miner count: 1, Ledger Rows: 208
+2019-12-01 11:51:35	Mempool ramv:        59, Admin count: 2, Miner count: 1, Ledger Rows: 208
+2019-12-01 11:51:35	Mempool copy:        59, Admin count: 2, Miner count: 1, Ledger Rows: 208
+2019-12-01 11:51:35	Mempool clr :        59, Admin count: 2, Miner count: 1, Ledger Rows: 203
+2019-12-01 11:51:35	Mempool rstr:        59, Admin count: 2, Miner count: 1, Ledger Rows: 208
+2019-12-01 11:51:35	Mempool clr :        59, Admin count: 2, Miner count: 1, Ledger Rows: 203
+2019-12-01 11:51:35	Grant: (97bc5535-00000000-00000001-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:51:35	Grant: (97bc5535-ba51a79c-00000008-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:51:35	Grant: (97bc5535-ba51a79c-00000080-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:51:35	Grant: (97bc5535-ba51a79c-00002000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:51:35	Grant: (97bc5535-ba51a79c-00001000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:51:35	Block commit:        60 (Hash: ca84452d, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 210
+2019-12-01 11:51:50	Block commit:        61 (Hash: 13462689, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 212
+2019-12-01 11:52:00	Block commit:        62 (Hash: 7c676075, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 214
+2019-12-01 11:52:09	Block commit:        63 (Hash: c2083bb8, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 216
+2019-12-01 11:52:12	Grant: (31304dc6-00000000-00000001-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:52:12	Grant: (31304dc6-ba51a79c-00000008-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:52:12	Grant: (31304dc6-ba51a79c-00000080-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:52:12	Grant: (31304dc6-ba51a79c-00002000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:52:12	Grant: (31304dc6-ba51a79c-00001000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:52:29	Mempool copy:        63, Admin count: 2, Miner count: 1, Ledger Rows: 221
+2019-12-01 11:52:29	Mempool ramv:        63, Admin count: 2, Miner count: 1, Ledger Rows: 221
+2019-12-01 11:52:29	Mempool copy:        63, Admin count: 2, Miner count: 1, Ledger Rows: 221
+2019-12-01 11:52:29	Mempool clr :        63, Admin count: 2, Miner count: 1, Ledger Rows: 216
+2019-12-01 11:52:29	Mempool rstr:        63, Admin count: 2, Miner count: 1, Ledger Rows: 221
+2019-12-01 11:52:29	Mempool clr :        63, Admin count: 2, Miner count: 1, Ledger Rows: 216
+2019-12-01 11:52:29	Grant: (31304dc6-00000000-00000001-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:52:29	Grant: (31304dc6-ba51a79c-00000008-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:52:29	Grant: (31304dc6-ba51a79c-00000080-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:52:29	Grant: (31304dc6-ba51a79c-00002000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:52:29	Grant: (31304dc6-ba51a79c-00001000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:52:29	Block commit:        64 (Hash: b69388d8, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 223
+2019-12-01 11:52:37	Grant: (c7307988-00000000-00000001-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:52:37	Grant: (c7307988-ba51a79c-00000008-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:52:37	Grant: (c7307988-ba51a79c-00000080-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:52:37	Grant: (c7307988-ba51a79c-00002000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:52:37	Grant: (c7307988-ba51a79c-00001000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:52:42	Mempool copy:        64, Admin count: 2, Miner count: 1, Ledger Rows: 228
+2019-12-01 11:52:42	Mempool ramv:        64, Admin count: 2, Miner count: 1, Ledger Rows: 228
+2019-12-01 11:52:42	Mempool copy:        64, Admin count: 2, Miner count: 1, Ledger Rows: 228
+2019-12-01 11:52:42	Mempool clr :        64, Admin count: 2, Miner count: 1, Ledger Rows: 223
+2019-12-01 11:52:42	Mempool rstr:        64, Admin count: 2, Miner count: 1, Ledger Rows: 228
+2019-12-01 11:52:42	Mempool clr :        64, Admin count: 2, Miner count: 1, Ledger Rows: 223
+2019-12-01 11:52:42	Grant: (c7307988-00000000-00000001-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:52:42	Grant: (c7307988-ba51a79c-00000008-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:52:42	Grant: (c7307988-ba51a79c-00000080-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:52:42	Grant: (c7307988-ba51a79c-00002000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:52:42	Grant: (c7307988-ba51a79c-00001000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:52:42	Block commit:        65 (Hash: ca3167fe, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 230
+2019-12-01 11:53:06	Block commit:        66 (Hash: 1d6bf0cb, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 232
+2019-12-01 11:53:11	Block commit:        67 (Hash: b64a3161, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 234
+2019-12-01 11:53:35	Block commit:        68 (Hash: 061c6133, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 236
+2019-12-01 11:53:41	Grant: (d6d2c308-00000000-00000001-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:53:41	Grant: (d6d2c308-ba51a79c-00000008-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:53:41	Grant: (d6d2c308-ba51a79c-00000080-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:53:41	Grant: (d6d2c308-ba51a79c-00002000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:53:41	Grant: (d6d2c308-ba51a79c-00001000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:53:48	Grant: (5ae8c766-00000000-00000001-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:53:48	Grant: (5ae8c766-ba51a79c-00000008-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:53:48	Grant: (5ae8c766-ba51a79c-00000080-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:53:48	Grant: (5ae8c766-ba51a79c-00002000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:53:48	Grant: (5ae8c766-ba51a79c-00001000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:53:51	Mempool copy:        68, Admin count: 2, Miner count: 1, Ledger Rows: 246
+2019-12-01 11:53:51	Mempool ramv:        68, Admin count: 2, Miner count: 1, Ledger Rows: 246
+2019-12-01 11:53:51	Mempool copy:        68, Admin count: 2, Miner count: 1, Ledger Rows: 246
+2019-12-01 11:53:51	Mempool clr :        68, Admin count: 2, Miner count: 1, Ledger Rows: 236
+2019-12-01 11:53:51	Mempool rstr:        68, Admin count: 2, Miner count: 1, Ledger Rows: 246
+2019-12-01 11:53:51	Mempool clr :        68, Admin count: 2, Miner count: 1, Ledger Rows: 236
+2019-12-01 11:53:51	Grant: (d6d2c308-00000000-00000001-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:53:51	Grant: (d6d2c308-ba51a79c-00000008-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:53:51	Grant: (d6d2c308-ba51a79c-00000080-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:53:51	Grant: (d6d2c308-ba51a79c-00002000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:53:51	Grant: (d6d2c308-ba51a79c-00001000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:53:51	Grant: (5ae8c766-00000000-00000001-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:53:51	Grant: (5ae8c766-ba51a79c-00000008-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:53:51	Grant: (5ae8c766-ba51a79c-00000080-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:53:51	Grant: (5ae8c766-ba51a79c-00002000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:53:51	Grant: (5ae8c766-ba51a79c-00001000-ba51a79c) (0--1, 0), In consensus: 1, Admin count: 2, Miner count: 1
+2019-12-01 11:53:51	Block commit:        69 (Hash: 75357e95, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 248
+2019-12-01 11:54:10	Block commit:        70 (Hash: a788556f, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 250
+2019-12-01 11:54:26	Block commit:        71 (Hash: 93b01839, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 252
+2019-12-01 11:54:36	Block commit:        72 (Hash: 66ae4513, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 254
+2019-12-01 11:54:47	Block commit:        73 (Hash: e699b952, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 256
+2019-12-01 11:55:00	Block commit:        74 (Hash: 2afd62b7, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 258
+2019-12-01 11:55:15	Block commit:        75 (Hash: fc93ab28, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 260
+2019-12-01 11:55:39	Block commit:        76 (Hash: b4637f53, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 262
+2019-12-01 11:55:42	Block commit:        77 (Hash: dbd3b6b7, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 264
+2019-12-01 11:56:03	Block commit:        78 (Hash: 9634ff62, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 266
+2019-12-01 11:56:13	Block commit:        79 (Hash: f332f4c7, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 268
+2019-12-01 11:56:37	Block commit:        80 (Hash: 0b84d3b6, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 270
+2019-12-01 11:56:43	Block commit:        81 (Hash: cd7cf6ec, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 272
+2019-12-01 11:56:56	Block commit:        82 (Hash: 75b3b95a, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 274
+2019-12-01 11:57:24	Block commit:        83 (Hash: eaa41c95, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 276
+2019-12-01 11:57:29	Block commit:        84 (Hash: baff20d9, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 278
+2019-12-01 11:57:44	Block commit:        85 (Hash: 56614e0d, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 280
+2019-12-01 11:58:03	Block commit:        86 (Hash: e7f585dd, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 282
+2019-12-01 11:58:19	Block commit:        87 (Hash: 253a3722, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 284
+2019-12-01 11:58:37	Block commit:        88 (Hash: 04763845, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 286
+2019-12-01 11:58:51	Block commit:        89 (Hash: ab87a7d4, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 288
+2019-12-01 12:00:39	Block commit:        90 (Hash: 4fd54166, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 290
+2019-12-01 12:00:51	Block commit:        91 (Hash: ef59762b, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 292
+2019-12-01 12:00:59	Block commit:        92 (Hash: 8bffd8fe, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 294
+2019-12-01 12:01:07	Block commit:        93 (Hash: c935e0f0, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 296
+2019-12-01 12:01:21	Block commit:        94 (Hash: 858d6811, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 298
+2019-12-01 12:01:33	Block commit:        95 (Hash: c26b63a3, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 300
+2019-12-01 12:01:36	Block commit:        96 (Hash: 760fcc06, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 302
+2019-12-01 12:01:46	Block commit:        97 (Hash: 884bad9a, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 304
+2019-12-01 12:01:55	Block commit:        98 (Hash: dfd97a1b, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 306
+2019-12-01 12:02:19	Block commit:        99 (Hash: 13ba3b6b, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 308
+2019-12-01 12:02:37	Block commit:       100 (Hash: a53f0a79, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 310
+2019-12-01 12:02:57	Block commit:       101 (Hash: 5d41163f, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 312
+2019-12-01 12:03:14	Block commit:       102 (Hash: 878058f4, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 314
+2019-12-01 12:03:24	Block commit:       103 (Hash: 5854e670, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 316
+2019-12-01 12:03:38	Block commit:       104 (Hash: 492f4c56, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 318
+2019-12-01 12:03:54	Block commit:       105 (Hash: 6aac4ece, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 320
+2019-12-01 12:04:14	Block commit:       106 (Hash: 440befbb, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 322
+2019-12-01 12:04:24	Block commit:       107 (Hash: 87d4f74b, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 324
+2019-12-01 12:04:45	Block commit:       108 (Hash: 4018691a, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 326
+2019-12-01 12:04:57	Block commit:       109 (Hash: b6c542a9, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 328
+2019-12-01 12:05:07	Block commit:       110 (Hash: 9726864c, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 330
+2019-12-01 12:05:21	Block commit:       111 (Hash: 9d048735, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 332
+2019-12-01 12:05:43	Block commit:       112 (Hash: a927044a, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 334
+2019-12-01 12:05:56	Block commit:       113 (Hash: 347dd3db, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 336
+2019-12-01 12:06:04	Block commit:       114 (Hash: 1dd1fde1, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 338
+2019-12-01 12:06:29	Block commit:       115 (Hash: d13f9673, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 340
+2019-12-01 12:06:41	Block commit:       116 (Hash: 8f4ba56d, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 342
+2019-12-01 12:06:51	Block commit:       117 (Hash: 9f8f0ec0, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 344
+2019-12-01 12:07:17	Block commit:       118 (Hash: 12f76230, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 346
+2019-12-01 12:07:21	Block commit:       119 (Hash: a2c84bb5, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 348
+2019-12-01 12:07:46	Block commit:       120 (Hash: 548357d6, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 350
+2019-12-01 12:07:59	Block commit:       121 (Hash: 725cac3b, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 352
+2019-12-01 12:08:08	Block commit:       122 (Hash: 5fdf46a5, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 354
+2019-12-01 12:08:25	Block commit:       123 (Hash: 34dbd304, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 356
+2019-12-01 12:08:35	Block commit:       124 (Hash: 748e6890, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 358
+2019-12-01 12:09:02	Block commit:       125 (Hash: a6be2dd5, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 360
+2019-12-01 12:09:14	Block commit:       126 (Hash: 504fda88, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 362
+2019-12-01 12:09:21	Block commit:       127 (Hash: 659f50ff, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 364
+2019-12-01 12:09:47	Block commit:       128 (Hash: 68fc9575, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 366
+2019-12-01 12:10:01	Block commit:       129 (Hash: ca10577b, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 368
+2019-12-01 12:10:14	Block commit:       130 (Hash: 3825b7e2, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 370
+2019-12-01 12:10:23	Block commit:       131 (Hash: 350293e0, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 372
+2019-12-01 12:10:38	Block commit:       132 (Hash: 3903cf14, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 374
+2019-12-01 12:11:02	Block commit:       133 (Hash: efec1ad8, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 376
+2019-12-01 12:11:12	Block commit:       134 (Hash: c7230d1b, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 378
+2019-12-01 12:11:23	Block commit:       135 (Hash: c2916e5b, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 380
+2019-12-01 12:11:42	Block commit:       136 (Hash: a5576a51, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 382
+2019-12-01 12:12:01	Block commit:       137 (Hash: 3572c879, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 384
+2019-12-01 12:12:11	Block commit:       138 (Hash: 3aaef013, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 386
+2019-12-01 12:12:24	Block commit:       139 (Hash: d6a18219, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 388
+2019-12-01 12:12:44	Block commit:       140 (Hash: 69a7e436, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 390
+2019-12-01 12:13:00	Block commit:       141 (Hash: 2245c5ba, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 392
+2019-12-01 12:13:17	Block commit:       142 (Hash: 2edae7bc, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 394
+2019-12-01 12:13:31	Block commit:       143 (Hash: d7c7bf2a, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 396
+2019-12-01 12:13:44	Block commit:       144 (Hash: 072ca6f0, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 398
+2019-12-01 12:13:54	Block commit:       145 (Hash: d8a30370, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 400
+2019-12-01 12:14:12	Block commit:       146 (Hash: 5f5f3899, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 402
+2019-12-01 12:14:34	Block commit:       147 (Hash: 1676a06c, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 404
+2019-12-01 12:14:37	Block commit:       148 (Hash: d748de1b, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 406
+2019-12-01 12:14:59	Block commit:       149 (Hash: 9bc7ff0f, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 408
+2019-12-01 12:15:16	Block commit:       150 (Hash: 92b384f7, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 410
+2019-12-01 12:15:28	Block commit:       151 (Hash: 67b32202, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 412
+2019-12-01 12:15:38	Block commit:       152 (Hash: a7c9c3dd, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 414
+2019-12-01 12:16:06	Block commit:       153 (Hash: def14202, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 416
+2019-12-01 12:16:21	Block commit:       154 (Hash: dbb07bc4, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 418
+2019-12-01 12:16:31	Block commit:       155 (Hash: 1cb1868e, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 420
+2019-12-01 12:16:43	Block commit:       156 (Hash: 189cad8d, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 422
+2019-12-01 12:17:00	Block commit:       157 (Hash: 9e01656d, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 424
+2019-12-01 12:17:13	Block commit:       158 (Hash: 4e7468e8, Miner: ba51a79c), Admin count: 2, Miner count: 1, Ledger Rows: 426
